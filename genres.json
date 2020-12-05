@@ -1,0 +1,23 @@
+{
+    "Animation": 31,
+    "Comedy": 376,
+    "Family": 131,
+    "Adventure": 110,
+    "Fantasy": 78,
+    "Romance": 259,
+    "Drama": 570,
+    "Action": 169,
+    "Crime": 130,
+    "Thriller": 212,
+    "Horror": 43,
+    "History": 28,
+    "ScienceFiction": 63,
+    "Mystery": 76,
+    "War": 30,
+    "Foreign": 17,
+    "": 34,
+    "Music": 29,
+    "Documentary": 23,
+    "Western": 21,
+    "TVMovie": 2
+}

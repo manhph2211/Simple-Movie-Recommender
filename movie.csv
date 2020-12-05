@@ -1,0 +1,1001 @@
+,name,genres,budget,revenue,runtime,popularity,vote_counts,vote_averages
+0,Toy Story,"['Animation', 'Comedy', 'Family']",30000000.0,373554033.0,81.0,21.946943,5415.0,7.7
+1,Jumanji,"['Adventure', 'Fantasy', 'Family']",65000000.0,262797249.0,104.0,17.015539,2413.0,6.9
+2,Grumpier Old Men,"['Romance', 'Comedy']",0.0,0.0,101.0,11.7129,92.0,6.5
+3,Waiting to Exhale,"['Comedy', 'Drama', 'Romance']",16000000.0,81452156.0,127.0,3.859495,34.0,6.1
+4,Father of the Bride Part II,['Comedy'],0.0,76578911.0,106.0,8.387519,173.0,5.7
+5,Heat,"['Action', 'Crime', 'Drama', 'Thriller']",60000000.0,187436818.0,170.0,17.924927,1886.0,7.7
+6,Sabrina,"['Comedy', 'Romance']",58000000.0,0.0,127.0,6.677277,141.0,6.2
+7,Tom and Huck,"['Action', 'Adventure', 'Drama', 'Family']",0.0,0.0,97.0,2.561161,45.0,5.4
+8,Sudden Death,"['Action', 'Adventure', 'Thriller']",35000000.0,64350171.0,106.0,5.23158,174.0,5.5
+9,GoldenEye,"['Adventure', 'Action', 'Thriller']",58000000.0,352194034.0,130.0,14.686036,1194.0,6.6
+10,The American President,"['Comedy', 'Drama', 'Romance']",62000000.0,107879496.0,106.0,6.318445,199.0,6.5
+11,Dracula: Dead and Loving It,"['Comedy', 'Horror']",0.0,0.0,88.0,5.430331,210.0,5.7
+12,Balto,"['Family', 'Animation', 'Adventure']",0.0,11348324.0,78.0,12.140733,423.0,7.1
+13,Nixon,"['History', 'Drama']",44000000.0,13681765.0,192.0,5.092,72.0,7.1
+14,Cutthroat Island,"['Action', 'Adventure']",98000000.0,10017322.0,119.0,7.284477,137.0,5.7
+15,Casino,"['Drama', 'Crime']",52000000.0,116112375.0,178.0,10.137389,1343.0,7.8
+16,Sense and Sensibility,"['Drama', 'Romance']",16500000.0,135000000.0,136.0,10.673167,364.0,7.2
+17,Four Rooms,"['Crime', 'Comedy']",4000000.0,4300000.0,98.0,9.026586,539.0,6.5
+18,Ace Ventura: When Nature Calls,"['Crime', 'Comedy', 'Adventure']",30000000.0,212385533.0,90.0,8.205448,1128.0,6.1
+19,Money Train,"['Action', 'Comedy', 'Crime']",60000000.0,35431113.0,103.0,7.337906,224.0,5.4
+20,Get Shorty,"['Comedy', 'Thriller', 'Crime']",30250000.0,115101622.0,105.0,12.669608,305.0,6.4
+21,Copycat,"['Drama', 'Thriller']",0.0,0.0,124.0,10.701801,199.0,6.5
+22,Assassins,"['Action', 'Adventure', 'Crime', 'Thriller']",50000000.0,30303072.0,132.0,11.065939,394.0,6.0
+23,Powder,"['Drama', 'Fantasy', 'Science Fiction', 'Thriller']",0.0,0.0,111.0,12.133094,143.0,6.3
+24,Leaving Las Vegas,"['Drama', 'Romance']",3600000.0,49800000.0,112.0,10.332025,365.0,7.1
+25,Othello,['Drama'],0.0,0.0,123.0,1.845899,33.0,7.0
+26,Now and Then,"['Comedy', 'Drama', 'Family']",12000000.0,27400000.0,100.0,8.681325,91.0,6.6
+27,Persuasion,"['Drama', 'Romance']",0.0,0.0,104.0,2.228434,36.0,7.4
+28,The City of Lost Children,"['Fantasy', 'Science Fiction', 'Adventure']",18000000.0,1738611.0,108.0,9.822423,308.0,7.6
+29,Shanghai Triad,"['Drama', 'Crime']",0.0,0.0,108.0,1.100915,17.0,6.5
+30,Dangerous Minds,"['Drama', 'Crime']",0.0,180000000.0,99.0,9.481338,249.0,6.4
+31,Twelve Monkeys,"['Science Fiction', 'Thriller', 'Mystery']",29500000.0,168840000.0,129.0,12.297305,2470.0,7.4
+32,Wings of Courage,"['Romance', 'Adventure']",0.0,0.0,50.0,0.745542,4.0,6.8
+33,Babe,"['Fantasy', 'Drama', 'Comedy', 'Family']",30000000.0,254134910.0,89.0,14.404764,756.0,6.0
+34,Carrington,"['History', 'Drama', 'Romance']",0.0,0.0,121.0,1.493361,16.0,6.4
+35,Dead Man Walking,['Drama'],11000000.0,39363635.0,122.0,6.891317,350.0,7.3
+36,Across the Sea of Time,"['Adventure', 'History', 'Drama', 'Family']",0.0,0.0,51.0,0.114469,2.0,3.5
+37,It Takes Two,"['Comedy', 'Family', 'Romance']",0.0,0.0,101.0,7.777735,149.0,6.1
+38,Clueless,"['Comedy', 'Drama', 'Romance']",12000000.0,0.0,97.0,9.882383,828.0,6.9
+39,"Cry, the Beloved Country",['Drama'],0.0,676525.0,106.0,0.894647,13.0,6.7
+40,Richard III,"['Drama', 'War']",0.0,0.0,104.0,4.561387,50.0,6.9
+41,Dead Presidents,"['Action', 'Crime', 'Drama', 'History']",10000000.0,0.0,119.0,9.87957,80.0,6.6
+42,Restoration,"['Drama', 'Romance']",19000000.0,0.0,117.0,10.979269,30.0,6.3
+43,Mortal Kombat,"['Action', 'Fantasy']",18000000.0,122195920.0,101.0,10.870138,452.0,5.4
+44,To Die For,"['Fantasy', 'Drama', 'Comedy', 'Thriller']",20000000.0,21284514.0,106.0,10.448481,177.0,6.7
+45,How To Make An American Quilt,"['Drama', 'Romance']",10000000.0,23574130.0,116.0,4.485958,38.0,6.5
+46,Se7en,"['Crime', 'Mystery', 'Thriller']",33000000.0,327311859.0,127.0,18.45743,5915.0,8.1
+47,Pocahontas,"['Adventure', 'Animation', 'Drama', 'Family']",55000000.0,346079773.0,81.0,13.280069,1509.0,6.7
+48,When Night Is Falling,"['Drama', 'Romance']",0.0,0.0,96.0,3.302524,10.0,5.9
+49,The Usual Suspects,"['Drama', 'Crime', 'Thriller']",6000000.0,23341568.0,106.0,16.302466,3334.0,8.1
+50,Guardian Angel,"['Action', 'Thriller', 'Drama']",0.0,0.0,93.0,0.595949,3.0,6.3
+51,Mighty Aphrodite,"['Comedy', 'Romance']",15000000.0,6700000.0,95.0,15.899134,145.0,6.7
+52,Lamerica,"['Drama', 'Foreign']",0.0,0.0,116.0,1.361286,11.0,7.7
+53,The Big Green,"['Action', 'Adventure', 'Comedy', 'Family']",0.0,0.0,100.0,5.982764,41.0,5.2
+54,Georgia,['Drama'],0.0,0.0,115.0,4.093443,15.0,6.1
+55,Kids of the Round Table,[],0.0,0.0,89.0,0.307075,1.0,3.0
+56,Home for the Holidays,"['Comedy', 'Drama', 'Romance']",0.0,17519169.0,103.0,8.416802,39.0,6.3
+57,The Postman,"['Comedy', 'Drama', 'Romance']",0.0,,0.0,10.168437,181.0,7.6
+58,The Confessional,"['Thriller', 'Drama', 'Mystery']",0.0,0.0,100.0,0.120789,2.0,6.5
+59,The Indian in the Cupboard,"['Adventure', 'Family', 'Fantasy']",45000000.0,0.0,96.0,10.673296,136.0,5.9
+60,Eye for an Eye,"['Drama', 'Thriller']",20000000.0,0.0,101.0,4.733526,65.0,5.8
+61,Mr. Holland's Opus,"['Music', 'Drama', 'Family']",0.0,106269971.0,137.0,7.137117,115.0,6.9
+62,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,['Comedy'],0.0,0.0,89.0,11.700115,192.0,6.2
+63,Two If by Sea,"['Comedy', 'Romance']",0.0,0.0,96.0,2.174487,14.0,4.5
+64,Bio-Dome,['Comedy'],15000000.0,0.0,88.0,6.387469,110.0,4.4
+65,Lawnmower Man 2: Beyond Cyberspace,"['Action', 'Science Fiction']",0.0,2409225.0,92.0,2.49535,32.0,2.8
+66,Two Bits,"['Drama', 'Family']",0.0,0.0,85.0,4.046208,11.0,5.4
+67,French Twist,"['Comedy', 'Romance']",0.0,0.0,95.0,2.518051,43.0,6.0
+68,Friday,['Comedy'],3500000.0,28215918.0,91.0,14.56965,513.0,7.0
+69,From Dusk Till Dawn,"['Horror', 'Action', 'Thriller', 'Crime']",19000000.0,25836616.0,108.0,15.339153,1644.0,6.9
+70,Fair Game,"['Action', 'Thriller', 'Romance']",50000000.0,11534477.0,91.0,5.912223,54.0,4.1
+71,Kicking and Screaming,"['Comedy', 'Drama', 'Romance']",0.0,718490.0,96.0,3.367276,36.0,7.0
+72,Les Miserables,"['Drama', 'History']",0.0,0.0,175.0,1.479446,8.0,6.6
+73,Bed of Roses,"['Drama', 'Romance']",0.0,19030691.0,87.0,10.412194,27.0,5.1
+74,Big Bully,"['Comedy', 'Family']",15000000.0,2042530.0,90.0,2.936443,16.0,3.9
+75,Screamers,"['Horror', 'Science Fiction']",20000000.0,5781885.0,108.0,12.758848,154.0,6.1
+76,Nico Icon,['Documentary'],0.0,0.0,70.0,0.133893,3.0,7.3
+77,The Crossing Guard,"['Drama', 'Thriller']",0.0,0.0,111.0,5.756462,74.0,6.1
+78,The Juror,"['Drama', 'Thriller']",44000000.0,0.0,118.0,6.010579,91.0,5.5
+79,The White Balloon,"['Family', 'Drama']",0.0,0.0,85.0,1.196256,20.0,7.5
+80,Things to Do in Denver When You're Dead,"['Drama', 'Crime']",8000000.0,529766.0,116.0,4.486179,87.0,6.7
+81,Antonia's Line,"['Drama', 'Comedy']",900000.0,0.0,102.0,2.030174,26.0,7.2
+82,Once Upon a Time... When We Were Colored,"['Romance', 'Drama']",0.0,0.0,115.0,0.252287,2.0,4.5
+83,Last Summer in the Hamptons,[],0.0,0.0,108.0,0.531159,0.0,0.0
+84,Angels and Insects,"['Drama', 'Romance']",0.0,0.0,118.0,2.15166,17.0,6.3
+85,White Squall,"['Action', 'Drama']",38000000.0,10300000.0,129.0,9.568604,86.0,6.3
+86,Dunston Checks In,"['Adventure', 'Comedy', 'Family']",16000000.0,0.0,88.0,4.814825,59.0,5.1
+87,Black Sheep,['Comedy'],0.0,32.0,87.0,8.963037,124.0,6.0
+88,Nick of Time,"['Crime', 'Drama', 'Thriller']",8169363.0,8175346.0,90.0,6.848591,190.0,6.1
+89,The Journey of August King,['Drama'],0.0,0.0,91.0,0.411424,3.0,6.7
+90,Mary Reilly,"['Drama', 'Horror', 'Thriller', 'Romance']",47000000.0,12379402.0,104.0,12.866139,77.0,5.7
+91,Vampire in Brooklyn,"['Comedy', 'Horror', 'Romance']",14000000.0,19800000.0,100.0,9.071127,113.0,4.5
+92,Beautiful Girls,"['Comedy', 'Drama', 'Romance']",0.0,0.0,112.0,4.670562,103.0,6.6
+93,Broken Arrow,"['Action', 'Adventure', 'Drama', 'Thriller']",50000000.0,150270147.0,108.0,14.957626,459.0,5.7
+94,A Midwinter's Tale,['Comedy'],0.0,0.0,99.0,0.513391,6.0,7.5
+95,La Haine,['Drama'],3000000.0,0.0,98.0,12.108196,695.0,7.9
+96,Shopping,"['Action', 'Adventure', 'Drama', 'Science Fiction', 'Thriller']",0.0,0.0,105.0,2.657647,13.0,5.6
+97,Heidi Fleiss: Hollywood Madam,['Documentary'],0.0,0.0,106.0,0.638211,4.0,6.8
+98,City Hall,"['Drama', 'Thriller']",0.0,0.0,111.0,4.807223,67.0,6.0
+99,Bottle Rocket,"['Comedy', 'Crime', 'Drama']",7000000.0,560069.0,91.0,6.904831,285.0,6.8
+100,Mr. Wrong,"['Comedy', 'Romance']",0.0,0.0,96.0,3.329264,16.0,3.3
+101,Unforgettable,"['Drama', 'Mystery', 'Science Fiction', 'Thriller']",18000000.0,0.0,106.0,2.464425,22.0,5.3
+102,Happy Gilmore,['Comedy'],12000000.0,41205099.0,92.0,9.592265,767.0,6.5
+103,The Bridges of Madison County,"['Drama', 'Romance']",24000000.0,182016617.0,135.0,5.951077,397.0,7.3
+104,Nobody Loves Me,"['Drama', 'Comedy', 'Family']",0.0,0.0,104.0,1.015068,5.0,5.1
+105,Muppet Treasure Island,"['Action', 'Comedy', 'Music', 'Family', 'Adventure']",0.0,34327391.0,100.0,6.902423,93.0,6.5
+106,Catwalk,['Documentary'],0.0,0.0,95.0,0.976707,2.0,7.0
+107,Headless Body in Topless Bar,['Crime'],0.0,0.0,110.0,0.001346,0.0,0.0
+108,Braveheart,"['Action', 'Drama', 'History', 'War']",72000000.0,210000000.0,177.0,20.755149,3404.0,7.7
+109,Taxi Driver,"['Crime', 'Drama']",1300000.0,28262574.0,114.0,14.092713,2632.0,8.1
+110,Rumble in the Bronx,"['Crime', 'Action', 'Comedy', 'Thriller']",7500000.0,32392047.0,91.0,12.314278,245.0,6.5
+111,Before and After,"['Drama', 'Thriller']",35000000.0,0.0,108.0,2.938293,37.0,5.8
+112,Margaret's Museum,['Drama'],0.0,0.0,114.0,0.372697,2.0,7.5
+113,Happiness Is in the Field,['Comedy'],13365000.0,0.0,106.0,1.254885,23.0,7.0
+114,Anne Frank Remembered,"['Documentary', 'Drama', 'Foreign']",0.0,1.0,117.0,0.243986,4.0,7.3
+115,The Young Poisoner's Handbook,"['Comedy', 'Crime', 'Drama']",0.0,0.0,99.0,6.178497,19.0,6.9
+116,If Lucy Fell,"['Comedy', 'Romance']",0.0,0.0,92.0,2.891918,11.0,5.4
+117,Steal Big Steal Little,"['Comedy', 'Drama']",25000000.0,6278139.0,113.0,1.522412,7.0,5.1
+118,Race the Sun,"['Action', 'Adventure', 'Comedy', 'Drama', 'Family']",0.0,0.0,100.0,1.317878,21.0,5.2
+119,The Boys of St. Vincent,['Drama'],0.0,0.0,90.0,0.86539,7.0,7.0
+120,Boomerang,"['Comedy', 'Romance']",40000000.0,70100000.0,117.0,6.506983,139.0,5.4
+121,Chungking Express,"['Drama', 'Comedy', 'Romance']",0.0,0.0,102.0,6.778979,249.0,7.9
+122,The Star Maker,"['Drama', 'Romance']",0.0,0.0,113.0,1.702639,29.0,6.8
+123,Flirting with Disaster,"['Comedy', 'Romance']",7000000.0,14702438.0,92.0,5.579088,66.0,6.3
+124,The Neverending Story III: Escape from Fantasia,['Fantasy'],17000000.0,0.0,95.0,6.252377,105.0,4.4
+125,The Silences of the Palace,['Drama'],0.0,0.0,116.0,0.406754,3.0,4.3
+126,Jupiter's Wife,[],0.0,0.0,87.0,0.001178,0.0,0.0
+127,Pie in the Sky,"['Comedy', 'Romance']",0.0,0.0,95.0,0.699066,2.0,7.0
+128,Angela,"['Comedy', 'Drama']",0.0,0.0,99.0,2.197439,9.0,5.6
+129,Frankie Starlight,"['Drama', 'Romance', 'War']",0.0,0.0,101.0,0.637554,4.0,5.4
+130,Jade,"['Action', 'Thriller', 'Mystery', 'Romance']",50000000.0,9851610.0,95.0,11.418917,45.0,5.1
+131,Nueba Yol,"['Comedy', 'Drama', 'Romance']",0.0,0.0,102.0,0.291021,1.0,5.5
+132,Sonic Outlaws,"['Music', 'Documentary']",0.0,0.0,87.0,0.001838,0.0,0.0
+133,Down Periscope,['Comedy'],0.0,0.0,92.0,5.184977,110.0,5.6
+134,From the Journals of Jean Seberg,['Documentary'],0.0,0.0,97.0,0.276401,2.0,6.5
+135,Man of the Year,['Comedy'],0.0,209935.0,86.0,0.540436,2.0,3.8
+136,The Neon Bible,['Drama'],0.0,0.0,91.0,0.370342,5.0,7.2
+137,Target,[],0.0,0.0,122.0,0.001205,0.0,0.0
+138,Up Close & Personal,"['Drama', 'Romance']",60000000.0,0.0,119.0,3.402749,51.0,5.9
+139,The Birdcage,['Comedy'],31000000.0,185260553.0,117.0,6.49968,303.0,6.7
+140,Virgin Mary,['Drama'],0.0,0.0,125.0,0.918504,2.0,7.0
+141,The Brothers McMullen,"['Comedy', 'Drama', 'Romance']",0.0,0.0,98.0,2.039196,23.0,6.3
+142,Bad Boys,"['Action', 'Comedy', 'Crime', 'Thriller']",19000000.0,141407024.0,118.0,9.262184,1729.0,6.5
+143,The Amazing Panda Adventure,"['Action', 'Adventure', 'Drama', 'Family']",0.0,0.0,81.0,2.375865,31.0,5.0
+144,The Basketball Diaries,"['Drama', 'Crime']",0.0,0.0,102.0,7.415144,472.0,7.2
+145,An Awfully Big Adventure,"['Romance', 'Drama', 'Comedy']",4000000.0,851545.0,113.0,0.922958,11.0,6.0
+146,Amateur,"['Crime', 'Comedy', 'Drama', 'Thriller']",0.0,0.0,105.0,1.759012,21.0,6.5
+147,Apollo 13,['Drama'],52000000.0,355237933.0,140.0,18.761467,1637.0,7.3
+148,Rob Roy,['Adventure'],28000000.0,31596911.0,139.0,10.193549,151.0,6.5
+149,The Addiction,"['Drama', 'Horror']",0.0,0.0,82.0,3.137285,46.0,6.4
+150,Batman Forever,"['Action', 'Crime', 'Fantasy']",100000000.0,336529144.0,121.0,13.321354,1529.0,5.2
+151,Belle de Jour,"['Drama', 'Romance']",0.0,0.0,101.0,10.142662,163.0,7.3
+152,Beyond Rangoon,"['Drama', 'Thriller']",0.0,0.0,100.0,2.04189,21.0,6.4
+153,Blue in the Face,['Comedy'],2000000.0,1275000.0,83.0,11.528147,28.0,6.8
+154,Canadian Bacon,"['Action', 'Comedy']",11000000.0,178104.0,91.0,5.391556,57.0,5.9
+155,Casper,"['Fantasy', 'Comedy', 'Family']",50000000.0,287928194.0,100.0,12.812539,1045.0,6.0
+156,Clockers,"['Mystery', 'Crime', 'Drama']",25000000.0,13071518.0,128.0,4.558992,69.0,6.8
+157,Congo,"['Action', 'Adventure', 'Drama', 'Mystery', 'Science Fiction', 'Thriller']",50000000.0,152022101.0,109.0,7.260574,214.0,5.0
+158,Crimson Tide,"['Action', 'Thriller', 'Drama']",53000000.0,157387195.0,116.0,8.657365,508.0,7.0
+159,Crumb,['Documentary'],0.0,3174695.0,119.0,3.620388,71.0,7.6
+160,Desperado,"['Thriller', 'Action', 'Crime']",7000000.0,25405445.0,104.0,6.950458,898.0,6.8
+161,Devil in a Blue Dress,"['Drama', 'Mystery', 'Thriller']",27000000.0,16140822.0,102.0,4.646132,88.0,6.3
+162,Die Hard: With a Vengeance,"['Action', 'Thriller']",90000000.0,366101666.0,128.0,15.138855,2094.0,6.9
+163,The Doom Generation,"['Action', 'Comedy', 'Crime', 'Drama']",0.0,0.0,80.0,7.120806,57.0,5.6
+164,Feast of July,"['Drama', 'Crime']",0.0,0.0,116.0,0.523575,0.0,0.0
+165,First Knight,"['Action', 'Adventure', 'Drama', 'Romance']",55000000.0,127600435.0,134.0,15.178338,319.0,5.9
+166,Free Willy 2 - The Adventure Home,['Adventure'],0.0,0.0,95.0,7.575098,130.0,5.5
+167,Hackers,"['Action', 'Crime', 'Thriller', 'Drama']",20000000.0,7563728.0,107.0,14.810519,406.0,6.2
+168,Jeffrey,"['Comedy', 'Drama', 'Romance']",0.0,0.0,92.0,3.196456,19.0,6.5
+169,Johnny Mnemonic,"['Adventure', 'Action', 'Drama', 'Science Fiction', 'Thriller']",25000000.0,19075720.0,97.0,11.715868,380.0,5.5
+170,Judge Dredd,['Science Fiction'],90000000.0,113493481.0,96.0,8.184815,643.0,5.4
+171,Jury Duty,"['Comedy', 'Drama']",0.0,17014653.0,88.0,3.676921,34.0,4.0
+172,Kids,"['Drama', 'Crime']",1500000.0,7412216.0,91.0,4.877872,280.0,6.8
+173,Living in Oblivion,"['Drama', 'Comedy']",500000.0,1148752.0,89.0,10.058329,64.0,7.2
+174,Lord of Illusions,"['Mystery', 'Horror', 'Thriller']",0.0,0.0,119.0,4.102409,87.0,5.9
+175,Love & Human Remains,"['Comedy', 'Drama']",0.0,0.0,100.0,0.354014,7.0,7.0
+176,Mad Love,"['Drama', 'Family', 'Romance']",0.0,15453274.0,95.0,2.624771,27.0,5.5
+177,Mallrats,"['Romance', 'Comedy']",6000000.0,2122561.0,94.0,8.25547,400.0,6.8
+178,Mighty Morphin Power Rangers: The Movie,"['Action', 'Adventure', 'Science Fiction', 'Family', 'Fantasy']",15000000.0,66000000.0,92.0,7.024227,153.0,5.2
+179,Moonlight and Valentino,"['Comedy', 'Drama', 'Romance']",0.0,0.0,100.0,1.01115,10.0,5.6
+180,Mute Witness,"['Thriller', 'Foreign']",2.0,1.0,95.0,2.466066,36.0,6.4
+181,Nadja,"['Horror', 'Thriller']",0.0,0.0,93.0,7.720056,12.0,5.9
+182,The Net,"['Crime', 'Drama', 'Mystery', 'Thriller', 'Action']",22000000.0,110627965.0,114.0,13.304342,359.0,5.6
+183,Nine Months,['Comedy'],0.0,69660733.0,103.0,8.482834,171.0,5.5
+184,Party Girl,['Comedy'],150000.0,472370.0,94.0,1.165039,14.0,5.8
+185,The Prophecy,"['Fantasy', 'Horror', 'Thriller']",8.0,16.0,98.0,10.187623,139.0,6.4
+186,Reckless,"['Fantasy', 'Comedy', 'Drama']",0.0,0.0,91.0,0.119713,1.0,10.0
+187,Safe,['Drama'],0.0,0.0,119.0,8.180047,62.0,7.2
+188,The Scarlet Letter,"['Drama', 'History', 'Romance']",50000000.0,10382407.0,135.0,6.752119,111.0,5.5
+189,The Show,['Documentary'],0.0,0.0,93.0,0.159596,2.0,5.3
+190,Showgirls,['Drama'],45000000.0,20350754.0,128.0,17.502375,261.0,4.9
+191,Smoke,"['Comedy', 'Drama']",7000000.0,8349430.0,112.0,5.552946,115.0,7.2
+192,Something to Talk About,['Comedy'],0.0,50892160.0,106.0,3.743212,60.0,5.7
+193,Species,"['Science Fiction', 'Horror', 'Action']",35000000.0,113374103.0,108.0,13.492845,457.0,5.5
+194,The Stars Fell on Henrietta,['Drama'],0.0,0.0,109.0,0.913522,6.0,6.6
+195,Strange Days,"['Crime', 'Drama', 'Science Fiction', 'Thriller']",42000000.0,7959291.0,145.0,11.223055,334.0,6.8
+196,The Umbrellas of Cherbourg,"['Drama', 'Romance']",0.0,0.0,91.0,8.133881,119.0,7.6
+197,The Tie That Binds,['Thriller'],14000000.0,5780000.0,99.0,1.820419,9.0,4.6
+198,Three Wishes,"['Drama', 'Fantasy']",0.0,7025496.0,115.0,11.002046,18.0,6.1
+199,Total Eclipse,"['Drama', 'Romance']",0.0,339889.0,111.0,4.546552,112.0,6.5
+200,"To Wong Foo, Thanks for Everything! Julie Newmar",['Comedy'],0.0,47774193.0,105.0,7.653446,117.0,6.3
+201,Under Siege 2: Dark Territory,"['Action', 'Thriller']",60000000.0,104324083.0,100.0,7.490247,217.0,5.6
+202,Unstrung Heroes,"['Comedy', 'Drama', 'Family']",0.0,0.0,93.0,2.881689,9.0,6.4
+203,Unzipped,['Documentary'],0.0,0.0,73.0,0.786023,6.0,6.0
+204,A Walk in the Clouds,"['Drama', 'Romance']",20000000.0,50012507.0,103.0,9.715639,168.0,6.5
+205,Waterworld,"['Adventure', 'Action']",175000000.0,264218220.0,135.0,16.885184,1017.0,5.9
+206,White Man's Burden,['Drama'],8000000.0,0.0,89.0,1.834099,25.0,5.1
+207,Wild Bill,"['Action', 'Western']",30000000.0,0.0,98.0,8.922139,27.0,5.9
+208,The Browning Version,['Drama'],0.0,0.0,97.0,3.727644,11.0,6.0
+209,Bushwhacked,"['Adventure', 'Action', 'Comedy', 'Crime', 'Family']",0.0,0.0,90.0,3.287036,29.0,4.9
+210,Burnt by the Sun,['Drama'],2800000.0,2616503.0,135.0,2.486073,35.0,6.7
+211,Before the Rain,"['Drama', 'War']",0.0,763847.0,113.0,3.525649,45.0,7.7
+212,Before Sunrise,"['Drama', 'Romance']",2500000.0,5535405.0,105.0,11.304979,984.0,7.7
+213,Billy Madison,['Comedy'],10000000.0,26488734.0,89.0,6.638116,464.0,6.2
+214,The Babysitter,"['Drama', 'Thriller']",0.0,0.0,90.0,2.761837,27.0,4.7
+215,Boys on the Side,"['Comedy', 'Drama']",21000000.0,23450000.0,115.0,3.030309,48.0,6.3
+216,The Cure,"['Drama', 'Family']",0.0,0.0,97.0,2.686342,58.0,7.2
+217,Castle Freak,"['Thriller', 'Drama', 'Horror', 'Mystery']",0.0,0.0,95.0,2.26977,40.0,5.8
+218,Circle of Friends,"['Drama', 'Family', 'Romance']",0.0,0.0,103.0,2.605521,30.0,6.5
+219,Clerks,['Comedy'],27000.0,3151130.0,92.0,10.513367,769.0,7.4
+220,Don Juan DeMarco,"['Romance', 'Drama', 'Comedy']",25000000.0,22200000.0,97.0,7.438934,184.0,6.3
+221,Disclosure,"['Drama', 'Thriller', 'Crime', 'Mystery', 'Romance']",55000000.0,214015089.0,123.0,11.812244,217.0,5.9
+222,Dream Man,['Thriller'],0.0,0.0,0.0,0.155859,1.0,2.5
+223,Drop Zone,"['Action', 'Adventure', 'Thriller']",45000000.0,0.0,101.0,9.579155,91.0,5.1
+224,Destiny Turns on the Radio,"['Crime', 'Comedy', 'Fantasy']",0.0,0.0,0.0,0.710671,9.0,5.3
+225,Death and the Maiden,"['Drama', 'Thriller', 'Mystery']",0.0,0.0,103.0,5.484156,92.0,7.1
+226,Dolores Claiborne,"['Crime', 'Drama', 'Mystery']",0.0,0.0,132.0,5.8025,183.0,7.1
+227,Dumb and Dumber,['Comedy'],16000000.0,247275374.0,107.0,9.844558,1894.0,6.5
+228,Eat Drink Man Woman,"['Comedy', 'Drama', 'Romance']",0.0,7294403.0,123.0,4.860016,76.0,7.5
+229,Exotica,"['Drama', 'Mystery']",0.0,0.0,103.0,5.378467,64.0,6.5
+230,Exit to Eden,"['Thriller', 'Comedy', 'Crime', 'Romance']",0.0,6841570.0,113.0,4.322726,28.0,4.3
+231,Ed Wood,"['Comedy', 'Drama', 'History']",18000000.0,5887457.0,127.0,11.720358,639.0,7.3
+232,French Kiss,"['Comedy', 'Romance']",0.0,0.0,111.0,9.146544,179.0,6.2
+233,Forget Paris,"['Comedy', 'Drama', 'Romance']",0.0,0.0,101.0,16.236745,38.0,6.1
+234,Far from Home: The Adventures of Yellow Dog,"['Action', 'Adventure', 'Drama', 'Family']",0.0,0.0,87.0,2.657337,27.0,5.6
+235,A Goofy Movie,"['Romance', 'Animation', 'Family', 'Comedy', 'Adventure']",0.0,35348597.0,78.0,10.177977,404.0,6.7
+236,Hideaway,"['Drama', 'Thriller']",15000000.0,12201255.0,103.0,8.182165,24.0,5.0
+237,Fluke,"['Drama', 'Family', 'Fantasy']",0.0,0.0,96.0,4.953936,48.0,6.6
+238,Farinelli,"['History', 'Drama']",0.0,0.0,111.0,8.935058,20.0,5.9
+239,Gordy,"['Drama', 'Family', 'Fantasy']",0.0,3992809.0,90.0,0.398924,4.0,3.0
+240,Gumby: The Movie,"['Fantasy', 'Animation', 'Science Fiction', 'Family']",0.0,0.0,77.0,0.090452,2.0,5.0
+241,The Glass Shield,"['Drama', 'Action', 'Thriller', 'Crime']",0.0,0.0,109.0,1.012197,9.0,5.4
+242,Hoop Dreams,['Documentary'],700000.0,7830611.0,171.0,9.47666,91.0,7.7
+243,Heavenly Creatures,"['Drama', 'Fantasy']",5000000.0,3049135.0,99.0,9.438042,299.0,6.9
+244,Houseguest,"['Comedy', 'Family']",10500000.0,26325256.0,113.0,2.688562,17.0,6.0
+245,Immortal Beloved,"['Drama', 'Music', 'Romance']",120.0,0.0,121.0,7.983666,90.0,6.9
+246,Heavyweights,"['Comedy', 'Family', 'Drama']",0.0,17689177.0,100.0,9.546707,97.0,6.0
+247,The Hunted,"['Action', 'Thriller']",0.0,0.0,106.0,2.756986,25.0,6.0
+248,I.Q.,"['Comedy', 'Drama', 'Romance']",25000000.0,0.0,100.0,5.146352,112.0,5.9
+249,Interview with the Vampire,"['Horror', 'Romance']",60000000.0,223664608.0,123.0,11.970205,1558.0,7.2
+250,Jefferson in Paris,"['Drama', 'Romance']",14000000.0,2474000.0,139.0,1.596058,10.0,5.2
+251,The Jerky Boys,"['Comedy', 'Crime']",0.0,0.0,82.0,0.748846,10.0,4.8
+252,Junior,"['Comedy', 'Family', 'Romance']",60000000.0,37000000.0,109.0,6.710215,381.0,4.7
+253,Just Cause,"['Action', 'Drama', 'Mystery', 'Thriller']",0.0,0.0,102.0,9.195256,124.0,6.0
+254,A Kid in King Arthur's Court,"['Adventure', 'Fantasy', 'Comedy', 'Science Fiction', 'Family']",0.0,0.0,89.0,5.874511,40.0,4.3
+255,Kiss of Death,"['Action', 'Crime', 'Drama', 'Thriller']",40000000.0,0.0,101.0,7.797512,83.0,5.7
+256,Star Wars,"['Adventure', 'Action', 'Science Fiction']",11000000.0,775398007.0,121.0,42.149697,6778.0,8.1
+257,Little Women,"['Drama', 'Romance']",18000000.0,0.0,115.0,9.774994,222.0,7.0
+258,A Little Princess,"['Drama', 'Family', 'Fantasy']",17000000.0,0.0,97.0,7.731725,207.0,7.4
+259,Ladybird Ladybird,['Drama'],0.0,0.0,101.0,0.84508,14.0,7.4
+260,L'Enfer,"['Crime', 'Drama']",10000000.0,0.0,100.0,1.948315,22.0,6.6
+261,Like Water for Chocolate,"['Drama', 'Romance']",2000000.0,21665468.0,105.0,4.126083,70.0,6.6
+262,Legends of the Fall,"['Adventure', 'Drama', 'Romance', 'War']",30000000.0,160638883.0,133.0,12.199047,636.0,7.2
+263,Major Payne,"['Adventure', 'Comedy', 'Family']",0.0,0.0,95.0,9.253362,164.0,6.1
+264,Little Odessa,"['Action', 'Drama']",0.0,0.0,98.0,1.861292,31.0,6.4
+265,Mi Vida Loca,"['Crime', 'Drama']",0.0,0.0,92.0,1.788829,9.0,5.7
+266,Love Affair,"['Drama', 'Romance']",60000000.0,0.0,108.0,3.290192,11.0,4.3
+267,Losing Isaiah,['Drama'],17000000.0,7603766.0,106.0,7.698526,28.0,6.4
+268,The Madness of King George,"['Comedy', 'Drama', 'History']",0.0,0.0,107.0,4.81307,67.0,6.7
+269,Mary Shelley's Frankenstein,"['Drama', 'Horror', 'Science Fiction', 'Romance']",45000000.0,112006296.0,123.0,14.287753,272.0,6.1
+270,Man of the House,"['Action', 'Comedy', 'Family']",0.0,0.0,96.0,2.558118,40.0,5.1
+271,Mixed Nuts,"['Comedy', 'Drama', 'Romance']",15000000.0,0.0,97.0,2.899608,37.0,5.2
+272,Milk Money,"['Comedy', 'Romance']",0.0,18137661.0,108.0,3.770115,49.0,5.6
+273,Miracle on 34th Street,"['Fantasy', 'Drama', 'Family']",0.0,46264384.0,114.0,5.831622,199.0,6.4
+274,Miami Rhapsody,"['Comedy', 'Romance']",6.0,5.0,95.0,1.137266,7.0,5.6
+275,My Family,"['Comedy', 'Drama']",5500000.0,0.0,128.0,3.121288,11.0,7.0
+276,Murder in the First,"['Crime', 'Drama']",0.0,17381942.0,122.0,9.518564,140.0,6.9
+277,Nobody's Fool,"['Drama', 'Comedy']",0.0,0.0,110.0,2.891269,56.0,7.0
+278,Nell,"['Drama', 'Thriller']",31000000.0,106683817.0,112.0,5.930957,128.0,6.1
+279,New Jersey Drive,"['Crime', 'Drama']",0.0,0.0,98.0,0.629955,7.0,6.9
+280,New York Cop,"['Action', 'Thriller', 'Crime', 'Drama']",0.0,0.0,93.0,0.004537,0.0,0.0
+281,Beyond Bedlam,['Horror'],4800000.0,0.0,89.0,0.426952,4.0,4.0
+282,Nemesis 2 - Nebula,"['Science Fiction', 'Action', 'Thriller']",0.0,0.0,83.0,1.466491,10.0,4.6
+283,Nina Takes a Lover,"['Drama', 'Romance']",0.0,0.0,100.0,0.769522,4.0,7.4
+284,Natural Born Killers,"['Crime', 'Thriller', 'Drama']",34000000.0,50282766.0,119.0,11.226856,927.0,6.9
+285,Only You,"['Comedy', 'Drama', 'Romance']",0.0,0.0,115.0,4.936761,92.0,6.4
+286,Once Were Warriors,['Drama'],0.0,2201126.0,99.0,4.025276,106.0,7.6
+287,Poison Ivy II: Lily,"['Drama', 'Romance', 'Thriller']",0.0,0.0,106.0,6.448039,32.0,4.6
+288,Outbreak,"['Action', 'Drama', 'Science Fiction', 'Thriller']",50000000.0,189859560.0,127.0,13.676444,522.0,6.4
+289,Leon: The Professional,"['Thriller', 'Crime', 'Drama']",16000000.0,45284974.0,110.0,20.477329,4293.0,8.2
+290,The Perez Family,"['Comedy', 'Drama', 'Romance']",11000000.0,2832826.0,113.0,1.433544,9.0,6.6
+291,A Pyromaniac's Love Story,"['Comedy', 'Drama', 'Romance']",0.0,0.0,94.0,0.463307,2.0,7.0
+292,Pulp Fiction,"['Thriller', 'Crime']",8000000.0,213928762.0,154.0,140.950236,8670.0,8.3
+293,Panther,['Drama'],0.0,6834525.0,124.0,7.160149,6.0,6.4
+294,Pushing Hands,"['Comedy', 'Drama']",400000.0,152322.0,105.0,1.638622,9.0,6.1
+295,Priest,"['Drama', 'Romance']",0.0,4176932.0,98.0,1.881932,32.0,6.4
+296,Quiz Show,"['History', 'Drama']",0.0,0.0,133.0,7.772505,262.0,7.1
+297,Picture Bride,"['Drama', 'History']",0.0,0.0,94.0,1.296912,5.0,7.4
+298,Queen Margot,"['Drama', 'History']",0.0,0.0,162.0,4.405405,67.0,7.0
+299,The Quick and the Dead,"['Action', 'Western']",32000000.0,18552460.0,107.0,7.54701,431.0,6.2
+300,Roommates,"['Drama', 'Comedy']",22000000.0,12400000.0,108.0,3.395867,7.0,6.4
+301,Prêt-à-Porter,"['Drama', 'Comedy']",15000000.0,11300653.0,133.0,6.259433,33.0,5.3
+302,Three Colors: Red,"['Drama', 'Mystery', 'Romance']",0.0,0.0,99.0,7.832755,246.0,7.8
+303,Three Colors: Blue,"['Drama', 'Music', 'Mystery']",0.0,0.0,98.0,8.843517,311.0,7.7
+304,Three Colors: White,"['Comedy', 'Drama', 'Mystery']",0.0,0.0,91.0,6.5898,218.0,7.3
+305,"Red Firecracker, Green Firecracker",['Drama'],0.0,0.0,111.0,0.078257,2.0,7.0
+306,Rent-a-Kid,"['Comedy', 'Family', 'TV Movie']",0.0,0.0,85.0,1.155255,15.0,5.1
+307,Relative Fear,"['Horror', 'Drama']",0.0,0.0,90.0,0.499601,3.0,4.7
+308,Stuart Saves His Family,"['Comedy', 'Drama']",0.0,0.0,95.0,1.390885,6.0,5.0
+309,The Swan Princess,['Animation'],35000000.0,9771658.0,89.0,8.910462,251.0,6.5
+310,The Secret of Roan Inish,"['Drama', 'Family', 'Fantasy']",0.0,0.0,97.0,1.750481,15.0,6.1
+311,The Specialist,"['Action', 'Thriller']",45000000.0,170362582.0,110.0,10.388183,317.0,5.5
+312,Stargate,"['Action', 'Adventure', 'Science Fiction']",55000000.0,196567262.0,121.0,13.328924,942.0,6.8
+313,The Santa Clause,"['Fantasy', 'Drama', 'Comedy', 'Family']",22000000.0,189833357.0,97.0,9.665424,501.0,6.3
+314,The Shawshank Redemption,"['Drama', 'Crime']",25000000.0,28341469.0,142.0,51.645403,8358.0,8.5
+315,Shallow Grave,"['Crime', 'Thriller']",0.0,0.0,92.0,8.223026,247.0,7.0
+316,Suture,"['Drama', 'Thriller']",0.0,102780.0,96.0,1.298224,7.0,6.0
+317,Strawberry and Chocolate,"['Comedy', 'Drama']",0.0,0.0,108.0,1.777197,16.0,7.1
+318,Swimming with Sharks,"['Crime', 'Comedy']",0.0,0.0,101.0,5.869261,104.0,6.7
+319,The Sum of Us,"['Comedy', 'Drama', 'Romance']",32.0,0.0,100.0,1.407427,21.0,6.0
+320,Senior Trip,['Comedy'],0.0,0.0,91.0,5.05806,23.0,5.7
+321,To Live,"['Drama', 'Romance', 'War']",0.0,0.0,125.0,5.260627,62.0,7.7
+322,Tank Girl,"['Action', 'Comedy', 'Fantasy', 'Science Fiction']",25000000.0,4064495.0,98.0,7.602087,140.0,5.5
+323,Tales from the Crypt: Demon Knight,"['Horror', 'Comedy', 'Thriller']",0.0,0.0,92.0,9.455342,96.0,6.7
+324,Star Trek: Generations,"['Science Fiction', 'Action', 'Adventure', 'Thriller']",38000000.0,120000000.0,118.0,8.105708,461.0,6.4
+325,Tales from the Hood,"['Crime', 'Horror', 'Thriller']",6000000.0,12000000.0,98.0,2.86007,33.0,5.4
+326,Tom & Viv,"['Drama', 'Romance']",0.0,0.0,115.0,0.704204,8.0,5.8
+327,Village of the Damned,"['Thriller', 'Horror', 'Science Fiction']",0.0,0.0,99.0,6.529879,165.0,5.6
+328,Tommy Boy,['Comedy'],0.0,32648673.0,97.0,11.971318,321.0,6.8
+329,Vanya on 42nd Street,"['Drama', 'Romance']",0.0,0.0,119.0,7.039846,15.0,6.1
+330,The Underneath,"['Thriller', 'Crime']",6500000.0,0.0,99.0,2.059771,15.0,5.6
+331,The Walking Dead,"['Drama', 'War']",0.0,0.0,88.0,0.620873,4.0,6.6
+332,What's Eating Gilbert Grape,"['Romance', 'Drama']",11000000.0,10032765.0,118.0,10.3919,943.0,7.5
+333,Virtuosity,"['Action', 'Crime', 'Science Fiction', 'Thriller']",30000000.0,24048000.0,106.0,5.188399,163.0,5.4
+334,While You Were Sleeping,"['Comedy', 'Drama', 'Romance']",17000000.0,182057016.0,103.0,15.783615,340.0,6.5
+335,The War,['Drama'],0.0,0.0,126.0,3.908596,39.0,6.3
+336,Double Happiness,"['Comedy', 'Romance']",0.0,759393.0,87.0,0.372239,2.0,5.5
+337,Muriel's Wedding,"['Drama', 'Comedy', 'Romance']",3000000.0,15119639.0,106.0,5.254847,104.0,6.9
+338,The Baby-Sitters Club,"['Comedy', 'Drama', 'Family']",0.0,0.0,94.0,2.15805,23.0,5.3
+339,Ace Ventura: Pet Detective,"['Comedy', 'Mystery']",15000000.0,107217396.0,86.0,11.247957,1684.0,6.4
+340,"The Adventures of Priscilla, Queen of the Desert","['Drama', 'Comedy']",0.0,11220670.0,104.0,8.328596,174.0,7.2
+341,Backbeat,"['Drama', 'Music']",0.0,0.0,100.0,2.487951,37.0,6.2
+342,Bitter Moon,"['Thriller', 'Drama', 'Romance']",5000000.0,1862805.0,139.0,11.298195,115.0,7.0
+343,Bullets Over Broadway,"['Action', 'Comedy', 'Thriller']",0.0,0.0,98.0,5.72288,130.0,7.0
+344,Clear and Present Danger,"['Action', 'Drama', 'Thriller']",62000000.0,215887717.0,141.0,7.513245,390.0,6.4
+345,The Client,"['Drama', 'Thriller', 'Crime', 'Mystery']",45000000.0,117615211.0,119.0,15.263829,287.0,6.4
+346,"Corrina, Corrina","['Comedy', 'Drama', 'Family', 'Romance']",0.0,0.0,115.0,6.924689,83.0,6.4
+347,Crooklyn,"['Comedy', 'Drama']",0.0,0.0,115.0,2.533022,31.0,6.7
+348,The Crow,"['Fantasy', 'Action', 'Thriller']",15000000.0,94000000.0,102.0,15.799336,980.0,7.3
+349,Cobb,['Drama'],0.0,1007583.0,128.0,2.583363,29.0,6.1
+350,The Flintstones,"['Fantasy', 'Comedy', 'Family']",46000000.0,341631208.0,91.0,15.019586,559.0,5.0
+351,Forrest Gump,"['Comedy', 'Drama', 'Romance']",55000000.0,677945399.0,142.0,48.307194,8147.0,8.2
+352,Four Weddings and a Funeral,"['Comedy', 'Drama', 'Romance']",6000000.0,254700832.0,117.0,8.990345,654.0,6.6
+353,Higher Learning,"['Romance', 'Drama', 'Crime']",0.0,38290723.0,127.0,7.817811,49.0,6.4
+354,I Like It Like That,"['Comedy', 'Drama', 'Romance']",0.0,1777020.0,104.0,0.289295,4.0,6.3
+355,I Love Trouble,"['Action', 'Comedy', 'Romance']",45000000.0,61947267.0,123.0,3.570874,41.0,5.3
+356,It Could Happen to You,"['Comedy', 'Drama', 'Romance']",0.0,0.0,101.0,11.272073,154.0,6.1
+357,The Jungle Book,"['Adventure', 'Drama', 'Family']",0.0,0.0,111.0,10.714235,107.0,5.9
+358,"The Wonderful, Horrible Life of Leni Riefenstahl","['Documentary', 'Foreign']",0.0,449707.0,180.0,0.568884,5.0,7.3
+359,The Lion King,"['Family', 'Animation', 'Drama']",45000000.0,788241776.0,89.0,21.605761,5520.0,8.0
+360,Little Buddha,"['Drama', 'History']",35000000.0,4858139.0,140.0,5.681522,76.0,6.0
+361,New Nightmare,"['Horror', 'Thriller', 'Mystery', 'Fantasy']",14000000.0,18090181.0,112.0,9.860522,297.0,6.4
+362,The Mask,"['Romance', 'Comedy', 'Crime', 'Fantasy']",23000000.0,351583407.0,101.0,14.13488,2550.0,6.6
+363,Maverick,"['Action', 'Adventure', 'Comedy', 'Drama', 'Western']",0.0,0.0,127.0,15.050326,490.0,6.6
+364,Mrs. Parker and the Vicious Circle,['Drama'],0.0,0.0,125.0,4.739054,20.0,6.3
+365,The Naked Gun 33⅓: The Final Insult,"['Comedy', 'Crime']",30000000.0,51132598.0,83.0,10.587232,535.0,6.4
+366,The Paper,"['Comedy', 'Drama']",6000000.0,0.0,112.0,4.006063,40.0,6.1
+367,Reality Bites,['Drama'],11500000.0,20079850.0,99.0,6.514592,180.0,6.5
+368,Red Rock West,"['Crime', 'Drama', 'Thriller']",8000000.0,2000000.0,98.0,5.137903,71.0,6.4
+369,Ri¢hie Ri¢h,"['Comedy', 'Family']",40000000.0,0.0,95.0,6.595255,426.0,5.4
+370,Safe Passage,['Drama'],0.0,0.0,98.0,4.931565,7.0,4.9
+371,The River Wild,"['Action', 'Adventure', 'Crime', 'Thriller']",45000000.0,0.0,111.0,10.511241,214.0,6.1
+372,Speed,"['Action', 'Adventure', 'Crime']",30000000.0,350448145.0,116.0,10.859292,1814.0,6.8
+373,Speechless,"['Comedy', 'Romance']",0.0,0.0,99.0,2.334226,24.0,5.5
+374,Timecop,"['Thriller', 'Science Fiction', 'Action', 'Crime']",27000000.0,101646581.0,99.0,8.907074,288.0,5.5
+375,True Lies,"['Action', 'Thriller']",115000000.0,378882411.0,141.0,11.396099,1138.0,6.8
+376,When a Man Loves a Woman,"['Drama', 'Romance']",0.0,50021959.0,126.0,4.322544,71.0,6.0
+377,Wolf,['Fantasy'],0.0,0.0,125.0,14.063845,221.0,6.0
+378,Wyatt Earp,"['Drama', 'Action', 'Western']",63000000.0,25052000.0,191.0,9.277147,203.0,6.5
+379,Bad Company,"['Action', 'Crime', 'Romance', 'Thriller']",0.0,0.0,108.0,0.912415,12.0,4.9
+380,A Man of No Importance,"['Comedy', 'Drama']",0.0,953.0,99.0,0.406113,2.0,6.5
+381,S.F.W.,"['Comedy', 'Drama']",0.0,0.0,96.0,2.504529,22.0,6.1
+382,A Low Down Dirty Shame,"['Action', 'Comedy', 'Crime']",10000000.0,29392418.0,100.0,3.021526,31.0,6.0
+383,"Boys Life: Three Stories of Love, Lust, and Liberation",['Drama'],0.0,0.0,91.0,0.054148,1.0,2.0
+384,Colonel Chabert,['Drama'],0.0,0.0,110.0,0.934312,9.0,5.9
+385,"Faster, Pussycat! Kill! Kill!","['Action', 'Crime']",45000.0,0.0,83.0,4.220541,59.0,6.5
+386,Jason's Lyric,"['Crime', 'Drama', 'Romance']",7000000.0,20851521.0,119.0,0.912909,9.0,5.9
+387,The Secret Adventures of Tom Thumb,"['Animation', 'Science Fiction']",0.0,0.0,61.0,0.381704,8.0,7.1
+388,Street Fighter,"['Action', 'Adventure', 'Thriller']",35000000.0,99423521.0,102.0,13.58449,330.0,4.1
+389,Coldblooded,"['Action', 'Comedy']",0.0,0.0,92.0,2.342756,13.0,6.7
+390,Desert Winds,[],0.0,0.0,97.0,0.251223,0.0,0.0
+391,Fall Time,"['Action', 'Adventure', 'Crime', 'Drama', 'Thriller']",0.0,0.0,88.0,1.108494,6.0,6.3
+392,The Fear,"['Horror', 'Thriller']",0.0,0.0,98.0,0.268043,7.0,3.4
+393,Frank and Ollie,['Documentary'],0.0,0.0,89.0,0.142357,4.0,7.5
+394,Girl in the Cadillac,"['Romance', 'Adventure', 'Crime', 'Drama']",0.0,0.0,89.0,0.405392,1.0,10.0
+395,Homage,"['Thriller', 'Drama']",0.0,0.0,97.0,0.014925,0.0,0.0
+396,Mirage,"['Action', 'Thriller']",0.0,0.0,92.0,0.302957,1.0,4.0
+397,Open Season,['Comedy'],0.0,0.0,97.0,0.012456,0.0,0.0
+398,Dos Crímenes,[],0.0,0.0,0.0,0.233376,1.0,5.0
+399,Brother Minister: The Assassination of Malcolm X,['Documentary'],0.0,0.0,115.0,0.0368,1.0,4.0
+400,Highlander: The Final Dimension,"['Action', 'Fantasy', 'Science Fiction']",26000000.0,36800000.0,99.0,6.866634,110.0,4.5
+401,Federal Hill,[],0.0,0.0,97.0,0.100685,2.0,5.0
+402,In the Mouth of Madness,"['Horror', 'Mystery', 'Thriller']",8000000.0,8946600.0,95.0,8.497643,307.0,7.1
+403,8 Seconds,"['Drama', 'Romance']",0.0,0.0,105.0,1.888534,22.0,7.2
+404,Above the Rim,"['Crime', 'Drama']",0.0,0.0,96.0,4.38154,40.0,6.7
+405,Addams Family Values,"['Comedy', 'Family', 'Fantasy']",0.0,48919043.0,94.0,17.555909,537.0,6.5
+406,Martin Lawrence: You So Crazy,['Comedy'],0.0,0.0,84.0,0.394194,4.0,4.5
+407,The Age of Innocence,"['Drama', 'Romance']",34000000.0,32255440.0,139.0,8.013617,172.0,7.0
+408,Airheads,"['Comedy', 'Crime', 'Music']",0.0,0.0,92.0,7.09232,222.0,5.8
+409,The Air Up There,"['Comedy', 'Family']",17080000.0,21011500.0,107.0,1.896273,42.0,5.1
+410,Another Stakeout,"['Action', 'Comedy']",0.0,0.0,105.0,12.967239,58.0,4.9
+411,Bad Girls,"['Action', 'Adventure', 'Comedy', 'Drama', 'Western']",0.0,15240435.0,99.0,14.644772,61.0,4.6
+412,Barcelona,"['Comedy', 'Drama', 'Romance']",3200000.0,0.0,100.0,1.632711,20.0,6.6
+413,Being Human,"['Drama', 'Comedy', 'Fantasy']",40000000.0,0.0,122.0,2.783872,15.0,5.0
+414,The Beverly Hillbillies,['Comedy'],0.0,0.0,93.0,5.673735,86.0,5.0
+415,Beverly Hills Cop III,"['Action', 'Comedy', 'Crime']",50000000.0,119208989.0,104.0,11.787784,445.0,5.5
+416,Black Beauty,"['Action', 'Adventure', 'Drama', 'Family']",0.0,0.0,88.0,8.398845,68.0,6.6
+417,Blink,"['Mystery', 'Crime', 'Drama', 'Thriller']",0.0,16668552.0,106.0,3.00282,45.0,6.3
+418,Blown Away,"['Drama', 'Action', 'Thriller']",0.0,30156002.0,121.0,13.155071,126.0,6.0
+419,Blue Chips,['Drama'],0.0,0.0,108.0,6.131056,41.0,5.7
+420,Blue Sky,"['Drama', 'Romance']",0.0,0.0,101.0,4.993829,28.0,6.1
+421,Body Snatchers,"['Horror', 'Science Fiction', 'Thriller']",13000000.0,428868.0,87.0,6.559693,102.0,5.8
+422,Boxing Helena,"['Drama', 'Romance']",0.0,1796389.0,107.0,4.304224,59.0,4.5
+423,A Bronx Tale,"['Drama', 'Crime']",22000000.0,17287898.0,121.0,6.115628,447.0,7.4
+424,Cabin Boy,['Comedy'],0.0,3662459.0,80.0,1.679042,28.0,4.9
+425,Calendar Girl,"['Drama', 'Comedy']",13000000.0,2570145.0,90.0,1.316741,10.0,3.7
+426,Carlito's Way,"['Action', 'Crime', 'Drama', 'Thriller']",30000000.0,36516012.0,144.0,8.698509,805.0,7.7
+427,City Slickers II: The Legend of Curly's Gold,"['Action', 'Comedy', 'Drama', 'Western']",0.0,0.0,116.0,8.605703,103.0,4.9
+428,Clean Slate,"['Comedy', 'Thriller', 'Mystery']",0.0,7355425.0,107.0,2.724621,25.0,5.7
+429,Cliffhanger,"['Action', 'Adventure', 'Thriller']",70000000.0,255000211.0,112.0,9.830853,600.0,6.1
+430,Coneheads,"['Comedy', 'Science Fiction', 'Family']",0.0,0.0,88.0,10.722729,228.0,4.8
+431,Color of Night,"['Drama', 'Mystery', 'Romance', 'Thriller']",40000000.0,19726050.0,121.0,14.228963,117.0,5.4
+432,Cops & Robbersons,"['Action', 'Comedy', 'Family']",0.0,0.0,93.0,7.042878,36.0,5.0
+433,The Cowboy Way,"['Western', 'Action', 'Comedy']",0.0,0.0,102.0,4.286279,38.0,5.1
+434,Dangerous Game,['Drama'],0.0,0.0,108.0,2.70097,9.0,5.4
+435,Dave,['Comedy'],0.0,63000000.0,110.0,13.696394,205.0,6.3
+436,Dazed and Confused,"['Comedy', 'Drama']",6900000.0,7993039.0,102.0,6.8652,588.0,7.4
+437,Demolition Man,"['Crime', 'Action', 'Science Fiction']",57000000.0,159055768.0,115.0,11.626116,1018.0,6.4
+438,The Endless Summer 2,['Documentary'],0.0,0.0,109.0,0.408159,12.0,7.1
+439,Even Cowgirls Get the Blues,"['Western', 'Drama', 'Comedy', 'Romance']",8000000.0,0.0,96.0,2.970724,29.0,4.2
+440,Fatal Instinct,['Comedy'],0.0,0.0,91.0,3.555139,37.0,5.4
+441,Farewell My Concubine,['Drama'],0.0,0.0,171.0,4.875827,98.0,7.8
+442,The Favor,"['Drama', 'Comedy', 'Romance']",0.0,0.0,97.0,1.344876,6.0,3.3
+443,Fearless,['Drama'],0.0,0.0,122.0,9.284624,80.0,6.8
+444,Fear of a Black Hat,['Comedy'],0.0,0.0,88.0,0.985441,11.0,5.8
+445,With Honors,"['Comedy', 'Drama']",0.0,0.0,103.0,2.969003,54.0,6.1
+446,Flesh and Bone,"['Drama', 'Mystery', 'Romance']",0.0,9488998.0,126.0,1.896869,22.0,6.2
+447,Widows' Peak,"['Comedy', 'Thriller', 'Mystery', 'Romance', 'Foreign']",0.0,0.0,101.0,0.409427,3.0,4.3
+448,For Love or Money,"['Comedy', 'Romance']",30000000.0,11146270.0,94.0,8.468869,77.0,5.7
+449,The Firm,"['Drama', 'Mystery', 'Thriller']",42000000.0,270248367.0,154.0,9.678367,513.0,6.6
+450,Free Willy,"['Family', 'Adventure']",20000000.0,153698625.0,112.0,5.990572,429.0,6.0
+451,Fresh,"['Crime', 'Drama', 'Thriller']",0.0,0.0,114.0,3.970215,56.0,7.6
+452,The Fugitive,"['Adventure', 'Action', 'Thriller', 'Crime', 'Mystery']",44000000.0,368875760.0,130.0,10.08937,1240.0,7.2
+453,Geronimo: An American Legend,"['History', 'Action', 'Drama', 'Western']",35000000.0,18635620.0,115.0,4.653462,44.0,5.9
+454,The Getaway,"['Drama', 'Action', 'Thriller']",0.0,30.0,115.0,14.214403,81.0,5.4
+455,Getting Even with Dad,"['Family', 'Comedy', 'Crime']",30000000.0,0.0,109.0,2.410545,43.0,4.5
+456,Go Fish,"['Drama', 'Romance']",0.0,0.0,83.0,0.775898,5.0,3.9
+457,A Good Man in Africa,"['Comedy', 'Drama']",0.0,0.0,94.0,5.22583,11.0,5.2
+458,Guilty as Sin,"['Drama', 'Thriller']",0.0,22886222.0,107.0,5.385108,21.0,5.6
+459,Hard Target,"['Action', 'Adventure', 'Crime', 'Thriller']",18000000.0,74189677.0,97.0,7.834351,237.0,6.1
+460,Heaven & Earth,"['History', 'War', 'Action', 'Drama']",33000000.0,0.0,140.0,4.190541,51.0,6.4
+461,Hot Shots! Part Deux,"['Action', 'Comedy', 'War']",25000000.0,133752825.0,86.0,13.482371,463.0,6.2
+462,Live Nude Girls,['Comedy'],0.0,0.0,95.0,2.138959,12.0,4.7
+463,The Englishman Who Went Up a Hill But Came Down a Mountain,"['Drama', 'Comedy', 'Romance']",0.0,0.0,99.0,5.331753,83.0,6.1
+464,The House of the Spirits,"['Romance', 'Drama']",25000000.0,0.0,140.0,10.687795,135.0,6.7
+465,House Party 3,['Comedy'],0.0,0.0,100.0,0.996047,11.0,4.6
+466,The Hudsucker Proxy,"['Comedy', 'Drama']",30000000.0,0.0,111.0,7.550545,280.0,7.1
+467,I'll Do Anything,"['Comedy', 'Drama']",40000000.0,0.0,115.0,1.742974,18.0,5.7
+468,In the Army Now,['Comedy'],0.0,28881266.0,91.0,6.071466,54.0,4.7
+469,In the Line of Fire,"['Action', 'Drama', 'Thriller', 'Crime', 'Mystery']",40000000.0,176997168.0,128.0,12.637158,392.0,6.8
+470,In the Name of the Father,['Drama'],13000000.0,65796862.0,133.0,7.405895,363.0,7.6
+471,The Inkwell,"['Comedy', 'Drama', 'Romance']",0.0,8880705.0,110.0,0.613335,5.0,3.9
+472,What's Love Got to Do with It,"['Drama', 'Music']",0.0,0.0,118.0,14.820883,75.0,6.9
+473,Jimmy Hollywood,['Comedy'],30000000.0,0.0,112.0,4.563989,17.0,4.6
+474,Judgment Night,"['Action', 'Thriller', 'Crime']",0.0,12136938.0,110.0,5.538671,79.0,6.4
+475,Jurassic Park,"['Adventure', 'Science Fiction']",63000000.0,920100000.0,127.0,8.863776,4956.0,7.6
+476,Kalifornia,"['Thriller', 'Crime']",9000000.0,2395231.0,117.0,8.4337,209.0,6.5
+477,Killing Zoe,"['Action', 'Crime', 'Drama', 'Thriller']",1500000.0,418961.0,96.0,4.948569,111.0,6.1
+478,King of the Hill,['Drama'],0.0,0.0,103.0,4.375347,33.0,6.4
+479,Lassie,"['Action', 'Adventure', 'Drama', 'Family']",0.0,0.0,94.0,3.645342,54.0,6.1
+480,Last Action Hero,"['Adventure', 'Fantasy', 'Action', 'Comedy', 'Family']",85000000.0,137298489.0,130.0,9.434006,725.0,6.1
+481,Life With Mikey,"['Comedy', 'Family']",0.0,0.0,91.0,6.446229,24.0,5.1
+482,Lightning Jack,"['Action', 'Comedy', 'Western']",0.0,0.0,98.0,2.913584,40.0,5.7
+483,M. Butterfly,"['Drama', 'Romance']",0.0,1499795.0,101.0,6.516976,35.0,6.6
+484,Made in America,['Comedy'],22000000.0,0.0,111.0,5.43085,86.0,5.3
+485,Malice,"['Drama', 'Crime']",0.0,46405336.0,107.0,9.861672,105.0,5.9
+486,The Man without a Face,['Drama'],0.0,24760338.0,114.0,5.997712,125.0,6.2
+487,Manhattan Murder Mystery,"['Comedy', 'Mystery']",13500000.0,11285588.0,104.0,8.939404,169.0,7.1
+488,Menace II Society,"['Drama', 'Action', 'Crime']",3500000.0,27900000.0,97.0,5.260924,179.0,7.2
+489,Executive Decision,"['Action', 'Adventure', 'Drama', 'Thriller']",55000000.0,121969216.0,133.0,13.106291,261.0,5.8
+490,In the Realm of the Senses,"['Drama', 'Romance']",0.0,0.0,105.0,8.932494,112.0,6.5
+491,What Happened Was...,"['Thriller', 'Comedy', 'Drama', 'Romance']",0.0,0.0,91.0,0.534606,7.0,7.0
+492,Much Ado About Nothing,"['Drama', 'Comedy', 'Romance']",8000000.0,0.0,111.0,8.62724,194.0,7.2
+493,Mr. Jones,"['Drama', 'Romance']",0.0,0.0,114.0,6.579753,35.0,5.9
+494,Mr. Wonderful,"['Comedy', 'Romance']",0.0,0.0,98.0,13.011091,11.0,5.5
+495,Mrs. Doubtfire,"['Comedy', 'Drama', 'Family']",25000000.0,441286195.0,125.0,11.16553,1638.0,7.0
+496,Naked,"['Comedy', 'Drama']",0.0,0.0,131.0,8.665198,105.0,7.5
+497,The Next Karate Kid,['Adventure'],12000000.0,15826984.0,107.0,9.9697,202.0,4.8
+498,The New Age,"['Comedy', 'Drama']",0.0,0.0,112.0,0.596207,5.0,4.8
+499,No Escape,"['Action', 'Drama', 'Science Fiction', 'Thriller']",20000000.0,15340000.0,118.0,9.715187,86.0,6.1
+500,North,"['Comedy', 'Drama', 'Family', 'Fantasy', 'Science Fiction']",40000000.0,0.0,87.0,15.534707,67.0,4.8
+501,Orlando,"['Romance', 'Drama', 'Fantasy']",4000000.0,0.0,93.0,3.800785,53.0,6.7
+502,A Perfect World,"['Crime', 'Drama', 'Thriller']",30000000.0,135130999.0,138.0,8.040589,376.0,7.2
+503,Philadelphia,['Drama'],26000000.0,206678440.0,125.0,13.373006,1019.0,7.6
+504,The Piano,"['Drama', 'Romance']",7000000.0,116700000.0,121.0,7.436758,290.0,7.1
+505,Poetic Justice,"['Drama', 'Romance']",14000000.0,27515786.0,109.0,6.972599,47.0,6.9
+506,The Program,['Drama'],0.0,23042200.0,112.0,3.199976,28.0,6.0
+507,The Puppet Masters,"['Horror', 'Science Fiction', 'Thriller']",0.0,8638072.0,109.0,7.272296,41.0,5.6
+508,Radioland Murders,"['Comedy', 'Crime', 'Drama', 'Music', 'Mystery', 'Romance']",0.0,0.0,108.0,8.506727,12.0,5.8
+509,The Ref,['Comedy'],11000000.0,11439193.0,97.0,5.868677,99.0,6.7
+510,The Remains of the Day,"['Drama', 'Romance']",11500000.0,23237911.0,134.0,12.222576,213.0,7.5
+511,Renaissance Man,"['Comedy', 'War']",40000000.0,24332324.0,128.0,4.985157,83.0,5.9
+512,Rising Sun,"['Action', 'Drama', 'Thriller']",0.0,107198790.0,125.0,6.279082,188.0,5.8
+513,The Road to Wellville,"['Comedy', 'Romance']",0.0,0.0,118.0,3.416181,43.0,5.5
+514,RoboCop 3,"['Action', 'Adventure', 'Crime', 'Science Fiction', 'Thriller']",22000000.0,10696210.0,104.0,8.685798,309.0,4.2
+515,Robin Hood: Men in Tights,['Comedy'],20000000.0,35739755.0,104.0,17.136672,575.0,6.4
+516,Romeo Is Bleeding,"['Action', 'Crime', 'Drama', 'Thriller']",11500000.0,3275585.0,100.0,9.796318,36.0,5.7
+517,Romper Stomper,"['Action', 'Drama', 'Thriller']",0.0,0.0,94.0,5.157926,126.0,6.6
+518,Ruby in Paradise,"['Drama', 'Romance']",800000.0,1001437.0,114.0,0.941994,10.0,5.6
+519,Rudy,['Drama'],12000000.0,22750363.0,114.0,5.914833,187.0,7.2
+520,The Saint of Fort Washington,['Drama'],0.0,0.0,99.0,1.065843,5.0,4.0
+521,Savage Nights,['Drama'],0.0,0.0,126.0,1.031556,11.0,6.2
+522,Schindler's List,"['Drama', 'History', 'War']",22000000.0,321365567.0,195.0,41.725123,4436.0,8.3
+523,The Scout,"['Comedy', 'Drama']",0.0,0.0,101.0,5.715608,37.0,5.3
+524,Searching for Bobby Fischer,['Drama'],0.0,7266383.0,110.0,12.048587,100.0,7.3
+525,Second Best,['Drama'],0.0,0.0,105.0,0.882596,8.0,5.9
+526,The Secret Garden,"['Drama', 'Family', 'Fantasy']",0.0,0.0,102.0,6.499523,232.0,7.1
+527,Serial Mom,"['Comedy', 'Crime', 'Horror', 'Thriller']",13000000.0,7820688.0,95.0,5.305311,137.0,6.4
+528,The Shadow,"['Adventure', 'Fantasy', 'Action', 'Thriller', 'Science Fiction']",25000000.0,48063435.0,108.0,7.881107,140.0,5.4
+529,Shadowlands,"['Drama', 'Romance']",22000000.0,0.0,131.0,2.96586,61.0,6.8
+530,Short Cuts,"['Comedy', 'Drama']",0.0,6110979.0,187.0,8.829337,136.0,6.9
+531,A Simple Twist of Fate,"['Drama', 'Family']",0.0,0.0,106.0,4.13516,26.0,5.7
+532,Sirens,"['Comedy', 'Drama']",0.0,7770731.0,98.0,2.86213,31.0,5.2
+533,Six Degrees of Separation,"['Mystery', 'Drama', 'Comedy']",0.0,0.0,112.0,8.730025,75.0,6.5
+534,Sleepless in Seattle,"['Comedy', 'Drama', 'Romance']",21000000.0,227799884.0,105.0,10.234919,630.0,6.5
+535,Sliver,"['Drama', 'Thriller']",40000000.0,116300000.0,108.0,11.23297,144.0,4.9
+536,Blade Runner,"['Science Fiction', 'Drama', 'Thriller']",28000000.0,33139618.0,117.0,96.272374,3833.0,7.9
+537,Son in Law,"['Comedy', 'Drama', 'Romance']",0.0,36448200.0,95.0,9.122718,81.0,5.6
+538,So I Married an Axe Murderer,"['Comedy', 'Crime', 'Romance']",20000000.0,11585483.0,93.0,8.051914,131.0,6.1
+539,Striking Distance,"['Crime', 'Action', 'Mystery', 'Thriller']",30.0,0.0,102.0,13.390917,223.0,5.4
+540,Harem,"['History', 'Drama', 'Romance']",0.0,0.0,113.0,1.825468,4.0,4.0
+541,Super Mario Bros.,"['Adventure', 'Comedy', 'Family', 'Fantasy']",48000000.0,20915465.0,104.0,7.198455,236.0,4.0
+542,Surviving the Game,"['Action', 'Adventure', 'Thriller', 'Crime']",7400000.0,7690013.0,96.0,3.644641,53.0,6.1
+543,Terminal Velocity,"['Action', 'Thriller']",50000000.0,16478900.0,102.0,8.012225,82.0,5.0
+544,Thirty Two Short Films About Glenn Gould,"['Drama', 'Music']",0.0,0.0,93.0,0.873068,9.0,7.4
+545,Threesome,"['Comedy', 'Drama', 'Family', 'Romance']",0.0,0.0,93.0,10.82236,57.0,6.3
+546,The Nightmare Before Christmas,"['Fantasy', 'Animation', 'Family']",18000000.0,75634409.0,76.0,17.730913,2135.0,7.6
+547,The Three Musketeers,"['Action', 'Adventure', 'Comedy']",30000000.0,53898845.0,105.0,6.34785,219.0,6.2
+548,Tombstone,"['Action', 'Adventure', 'Drama', 'History', 'Western']",25000000.0,56505065.0,130.0,11.338194,632.0,7.4
+549,Trial by Jury,"['Drama', 'Action', 'Thriller']",0.0,0.0,107.0,0.85586,5.0,5.5
+550,True Romance,"['Action', 'Thriller', 'Crime', 'Romance']",12500000.0,12281551.0,120.0,17.189328,762.0,7.5
+551,The War Room,"['Documentary', 'History']",0.0,0.0,96.0,1.273617,19.0,7.3
+552,The Pagemaster,"['Fantasy', 'Science Fiction', 'Family', 'Animation']",27000000.0,13670688.0,80.0,7.436001,178.0,6.2
+553,"Paris, France","['Drama', 'Comedy']",0.0,0.0,112.0,0.741522,2.0,6.0
+554,"The Beans of Egypt, Maine",[],0.0,0.0,0.0,0.38247,1.0,0.0
+555,Killer,"['Thriller', 'Drama', 'Romance']",0.0,0.0,97.0,0.422224,2.0,3.0
+556,Welcome to the Dollhouse,"['Comedy', 'Drama']",0.0,0.0,88.0,5.14056,103.0,6.9
+557,Germinal,"['Drama', 'Romance']",0.0,0.0,160.0,2.759302,43.0,6.3
+558,Chasers,"['Comedy', 'Romance']",0.0,1596687.0,102.0,9.85327,22.0,4.7
+559,Cronos,"['Drama', 'Horror', 'Thriller']",0.0,0.0,94.0,5.513024,153.0,6.4
+560,Naked in New York,"['Comedy', 'Romance']",0.0,0.0,95.0,0.449733,3.0,4.0
+561,Kika,"['Comedy', 'Drama']",0.0,0.0,117.0,3.647321,58.0,6.8
+562,Bhaji on the Beach,"['Comedy', 'Drama']",0.0,0.0,100.0,0.441585,10.0,5.1
+563,Little Big League,"['Comedy', 'Family']",0.0,0.0,119.0,1.960563,20.0,6.0
+564,The Slingshot,['Drama'],0.0,0.0,102.0,1.764582,10.0,6.2
+565,Wide Eyed and Legless,"['TV Movie', 'Drama', 'Romance', 'Comedy']",0.0,0.0,102.0,0.00015,0.0,0.0
+566,Foreign Student,"['Drama', 'Romance']",0.0,0.0,90.0,0.002789,0.0,0.0
+567,"Ciao, Professore!","['Comedy', 'Foreign']",0.0,0.0,100.0,3.456868,74.0,7.2
+568,Spanking the Monkey,"['Comedy', 'Drama']",200000.0,0.0,106.0,2.799575,29.0,5.3
+569,The Little Rascals,"['Romance', 'Comedy', 'Family']",0.0,67308282.0,82.0,6.707109,214.0,6.3
+570,À la mode,['Comedy'],0.0,0.0,82.0,8.2e-05,0.0,0.0
+571,Andre,"['Drama', 'Family', 'Adventure']",0.0,0.0,94.0,3.139316,31.0,5.0
+572,The Escort,"['Thriller', 'Crime', 'Drama']",0.0,0.0,92.0,0.046196,5.0,5.0
+573,Princess Caraboo,"['Comedy', 'Drama', 'History', 'Mystery']",0.0,3021629.0,97.0,1.943323,5.0,4.4
+574,The Celluloid Closet,"['History', 'Documentary']",0.0,0.0,102.0,6.784687,24.0,7.0
+575,Café au Lait,"['Drama', 'Comedy', 'Romance', 'Foreign']",0.0,0.0,94.0,1.040873,4.0,6.8
+576,Dear Diary,"['Comedy', 'Drama']",0.0,0.0,100.0,2.904734,46.0,6.9
+577,I Don't Want to Talk About It,"['Romance', 'Drama']",0.0,0.0,106.0,1.213481,1.0,6.0
+578,The Brady Bunch Movie,['Comedy'],0.0,0.0,84.0,4.233092,87.0,5.9
+579,Home Alone,"['Comedy', 'Family']",18000000.0,476684675.0,103.0,0.702543,2487.0,7.1
+580,Ghost,"['Fantasy', 'Drama', 'Thriller', 'Mystery', 'Romance']",22000000.0,505000000.0,127.0,11.945397,1381.0,6.9
+581,Aladdin,"['Animation', 'Family', 'Comedy', 'Adventure', 'Fantasy', 'Romance']",28000000.0,504050219.0,90.0,16.357419,3495.0,7.4
+582,Terminator 2: Judgment Day,"['Action', 'Thriller', 'Science Fiction']",100000000.0,520000000.0,137.0,22.661695,4274.0,7.7
+583,Dances with Wolves,"['Adventure', 'Drama', 'Western']",22000000.0,424208848.0,181.0,11.654349,1084.0,7.6
+584,Tough and Deadly,"['Thriller', 'Action', 'Drama']",0.0,0.0,92.0,0.426887,4.0,6.3
+585,Batman,"['Fantasy', 'Action']",35000000.0,411348924.0,126.0,19.10673,2145.0,7.0
+586,The Silence of the Lambs,"['Crime', 'Drama', 'Thriller']",19000000.0,272742922.0,119.0,4.307222,4549.0,8.1
+587,Snow White and the Seven Dwarfs,"['Fantasy', 'Animation', 'Family']",1488423.0,184925486.0,83.0,16.263878,1973.0,6.9
+588,Beauty and the Beast,"['Romance', 'Family', 'Animation', 'Fantasy', 'Music']",25000000.0,377350553.0,84.0,23.433511,3029.0,7.5
+589,Pinocchio,"['Animation', 'Family']",2600000.0,84300000.0,88.0,14.202284,1412.0,6.9
+590,Pretty Woman,"['Romance', 'Comedy']",14000000.0,463000000.0,119.0,13.348451,1807.0,7.0
+591,Window to Paris,"['Comedy', 'Drama', 'Fantasy']",0.0,0.0,87.0,0.345748,6.0,6.0
+592,The Wild Bunch,"['Adventure', 'Western']",6244087.0,638641.0,145.0,11.722424,266.0,7.7
+593,Love and a .45,"['Crime', 'Thriller']",0.0,0.0,101.0,3.40523,15.0,5.5
+594,The Wooden Man's Bride,"['Drama', 'Foreign', 'Romance']",0.0,0.0,113.0,0.088451,1.0,6.5
+595,A Great Day in Harlem,[],0.0,0.0,60.0,0.076352,2.0,7.0
+596,Bye Bye Love,"['Comedy', 'Romance']",0.0,0.0,106.0,2.47308,20.0,6.1
+597,One Fine Day,"['Comedy', 'Romance']",0.0,97529550.0,108.0,7.009946,160.0,6.1
+598,Candyman: Farewell to the Flesh,['Horror'],0.0,13940383.0,93.0,4.983552,64.0,5.0
+599,Century,"['Romance', 'Drama']",0.0,0.0,112.0,1.461029,1.0,5.0
+600,Fargo,"['Crime', 'Drama', 'Thriller']",7000000.0,60611975.0,98.0,12.61469,2080.0,7.7
+601,Homeward Bound II: Lost in San Francisco,"['Adventure', 'Comedy', 'Drama', 'Family']",0.0,32709423.0,89.0,14.657754,105.0,6.0
+602,Heavy Metal,"['Animation', 'Science Fiction']",9300000.0,0.0,90.0,7.640073,150.0,6.3
+603,Hellraiser: Bloodline,"['Horror', 'Thriller', 'Science Fiction']",4000000.0,16675000.0,86.0,5.263187,111.0,4.9
+604,The Pallbearer,"['Comedy', 'Romance']",8000000.0,0.0,97.0,8.174116,30.0,4.6
+605,Jane Eyre,"['Drama', 'Romance']",0.0,0.0,112.0,2.420301,51.0,7.1
+606,Loaded,"['Drama', 'Mystery', 'Thriller']",500000.0,0.0,91.0,0.618066,3.0,4.0
+607,Bread and Chocolate,"['Comedy', 'Foreign']",0.0,0.0,100.0,1.306628,10.0,7.1
+608,The Aristocats,"['Animation', 'Comedy', 'Family', 'Adventure']",4000000.0,55675257.0,78.0,9.834047,1287.0,7.1
+609,The Flower of My Secret,"['Drama', 'Romance']",0.0,0.0,107.0,2.286788,43.0,6.9
+610,Two Much,"['Comedy', 'Romance']",0.0,0.0,118.0,1.620174,24.0,5.1
+611,Ed,"['Comedy', 'Family']",0.0,0.0,94.0,5.174212,24.0,3.6
+612,Scream of Stone,"['Adventure', 'Drama', 'Documentary']",0.0,0.0,105.0,0.736081,4.0,7.5
+613,My Favorite Season,['Drama'],0.0,0.0,127.0,0.516924,4.0,6.4
+614,A Modern Affair,[],0.0,0.0,90.0,0.173207,1.0,5.0
+615,Condition Red,"['Thriller', 'Action', 'Drama']",0.0,0.0,83.0,0.793932,3.0,4.7
+616,Halfaouine: Boy of the Terraces,"['Comedy', 'Drama']",0.0,0.0,98.0,1.983301,5.0,7.4
+617,A Thin Line Between Love and Hate,"['Comedy', 'Thriller', 'Crime', 'Romance']",0.0,0.0,108.0,2.256747,15.0,5.7
+618,The Last Supper,"['Comedy', 'Thriller', 'Crime', 'Drama']",0.0,442965.0,92.0,4.619915,82.0,6.5
+619,Primal Fear,"['Crime', 'Drama', 'Mystery', 'Thriller']",30000000.0,102616183.0,129.0,10.326213,644.0,7.4
+620,Rude,[],0.0,0.0,89.0,0.065827,1.0,6.0
+621,Carried Away,"['Drama', 'Romance']",0.0,0.0,109.0,1.67218,5.0,5.4
+622,All Dogs Go to Heaven 2,"['Romance', 'Animation', 'Family', 'Adventure', 'Fantasy']",0.0,8620678.0,82.0,5.028897,50.0,5.0
+623,Land and Freedom,"['Drama', 'History', 'War', 'Romance']",0.0,0.0,109.0,6.144235,53.0,7.0
+624,Denise Calls Up,['Comedy'],0.0,0.0,80.0,0.466476,5.0,6.6
+625,Theodore Rex,"['Fantasy', 'Science Fiction', 'Family']",33500000.0,0.0,92.0,2.583686,17.0,3.6
+626,A Family Thing,"['Comedy', 'Drama']",0.0,0.0,109.0,6.207993,14.0,5.6
+627,Frisk,"['Drama', 'Thriller']",0.0,0.0,88.0,0.319215,3.0,3.0
+628,Sgt. Bilko,"['Comedy', 'Family']",0.0,0.0,90.0,5.70904,96.0,5.5
+629,Jack & Sarah,"['Comedy', 'Drama', 'Romance']",0.0,218626.0,110.0,1.523446,10.0,5.1
+630,Girl 6,['Comedy'],12000000.0,4939939.0,108.0,4.405169,17.0,5.7
+631,Diabolique,"['Drama', 'Horror', 'Mystery', 'Thriller']",0.0,0.0,107.0,4.530079,74.0,5.4
+632,"Little Indian, Big City","['Adventure', 'Drama', 'Comedy', 'Family']",0.0,0.0,90.0,4.728163,145.0,6.0
+633,Roula,"['Romance', 'Drama']",0.0,0.0,97.0,0.149157,1.0,5.0
+634,Peanuts – Die Bank zahlt alles,['Comedy'],0.0,0.0,,0.066123,1.0,4.0
+635,Happy Weekend,['Comedy'],0.0,65335.0,,0.002229,0.0,0.0
+636,Nelly and Monsieur Arnaud,"['Drama', 'Romance']",0.0,0.0,106.0,1.784647,16.0,7.1
+637,Courage Under Fire,"['Drama', 'Thriller', 'Mystery', 'War']",46000000.0,100860818.0,117.0,11.595316,240.0,6.2
+638,Mission: Impossible,"['Adventure', 'Action', 'Thriller']",80000000.0,457696359.0,110.0,15.793477,2677.0,6.7
+639,Cold Fever,"['Drama', 'Comedy']",0.0,0.0,85.0,0.494977,6.0,7.7
+640,Moll Flanders,"['Drama', 'Romance']",0.0,0.0,123.0,2.337263,19.0,6.2
+641,The Superwife,['Comedy'],0.0,0.0,86.0,0.821299,7.0,5.3
+642,"301, 302","['Horror', 'Mystery', 'Thriller']",0.0,0.0,100.0,0.396626,10.0,6.2
+643,DragonHeart,['Fantasy'],57000000.0,115267375.0,103.0,23.63659,553.0,6.4
+644,Und keiner weint mir nach,['Drama'],0.0,0.0,,0.439989,0.0,0.0
+645,My Mother's Courage,['Drama'],0.0,0.0,93.0,0.622885,0.0,0.0
+646,Eddie,"['Action', 'Comedy']",0.0,0.0,100.0,3.09233,46.0,5.4
+647,Yankee Zulu,"['Drama', 'Comedy']",0.0,0.0,100.0,1.558066,4.0,6.0
+648,Billy's Holiday,[],0.0,0.0,92.0,0.002444,0.0,0.0
+649,Purple Noon,"['Crime', 'Drama', 'Thriller']",0.0,0.0,115.0,3.804493,73.0,7.3
+650,August,"['Romance', 'Comedy', 'Drama']",0.0,0.0,94.0,0.987434,3.0,5.3
+651,James and the Giant Peach,"['Adventure', 'Animation', 'Family']",38000000.0,28921264.0,79.0,13.217623,375.0,6.2
+652,Fear,"['Drama', 'Thriller', 'Romance']",0.0,0.0,97.0,6.954926,157.0,6.1
+653,Kids in the Hall: Brain Candy,['Comedy'],0.0,0.0,89.0,2.299851,26.0,5.9
+654,Faithful,"['Comedy', 'Crime', 'Drama']",13000000.0,9789900.0,91.0,1.296862,4.0,4.8
+655,Underground,"['War', 'Drama', 'Comedy']",14000000.0,0.0,170.0,14.587894,143.0,7.5
+656,All Things Fair,"['War', 'Drama', 'Romance']",0.0,0.0,130.0,3.582047,23.0,6.1
+657,Bloodsport II,"['Action', 'Thriller']",0.0,684351.0,90.0,3.085207,23.0,5.2
+658,Pather Panchali,['Drama'],0.0,536364.0,125.0,3.900709,63.0,7.9
+659,The World of Apu,['Drama'],0.0,16000.0,117.0,2.381806,40.0,8.2
+660,Mystery Science Theater 3000: The Movie,"['Comedy', 'Science Fiction']",0.0,0.0,73.0,2.985163,71.0,7.0
+661,Tarantella,[],0.0,0.0,100.0,0.001662,0.0,0.0
+662,Space Jam,"['Animation', 'Comedy', 'Drama', 'Family', 'Fantasy']",80000000.0,250200000.0,88.0,11.054251,1335.0,6.5
+663,Barbarella,['Science Fiction'],9000000.0,2500000.0,98.0,14.304205,149.0,5.7
+664,Hostile Intentions,"['Thriller', 'Action', 'Drama']",0.0,0.0,90.0,0.062388,1.0,8.0
+665,They Bite,"['Comedy', 'Horror', 'Science Fiction']",0.0,0.0,98.0,0.466991,1.0,5.5
+666,Some Folks Call It a Sling Blade,"['Drama', 'Thriller']",0.0,0.0,25.0,0.459376,8.0,7.5
+667,The Run of the Country,"['Drama', 'Romance']",0.0,0.0,0.0,0.117662,2.0,8.0
+668,Alphaville,"['Drama', 'Science Fiction', 'Mystery']",220000.0,0.0,100.0,4.658149,100.0,6.8
+669,Coup de Torchon,['Drama'],0.0,0.0,128.0,2.272213,21.0,6.8
+670,Tigrero: A Film That Was Never Made,"['Documentary', 'Foreign']",0.0,0.0,75.0,0.18343,4.0,7.5
+671,The Eye of Vichy,[],0.0,0.0,110.0,0.004117,0.0,0.0
+672,Windows,"['Horror', 'Drama', 'Thriller']",0.0,0.0,96.0,0.400023,9.0,5.8
+673,It's My Party,['Drama'],0.0,0.0,110.0,2.791667,9.0,6.2
+674,Country Life,"['Drama', 'Romance']",0.0,0.0,118.0,0.487357,1.0,8.0
+675,Operation Dumbo Drop,"['Action', 'Adventure', 'Comedy', 'Family']",0.0,0.0,107.0,4.357971,37.0,4.7
+676,The Promise,"['Drama', 'Romance']",0.0,0.0,115.0,0.122178,1.0,5.0
+677,Mrs. Winterbourne,"['Comedy', 'Romance', 'Drama']",25000000.0,10070000.0,105.0,9.1861,26.0,5.5
+678,Solo,"['Action', 'Adventure', 'Science Fiction', 'Thriller']",0.0,0.0,94.0,1.899069,18.0,3.9
+679,Under The Domim Tree,"['Drama', 'Foreign']",0.0,0.0,0.0,0.71066,2.0,6.5
+680,The Substitute,"['Action', 'Thriller']",0.0,0.0,114.0,10.68537,60.0,5.8
+681,True Crime,"['Crime', 'Mystery', 'Thriller']",0.0,0.0,94.0,1.217249,7.0,5.1
+682,Butterfly Kiss,"['Crime', 'Drama', 'Romance', 'Thriller']",0.0,0.0,88.0,0.877853,5.0,7.4
+683,Feeling Minnesota,"['Action', 'Comedy', 'Drama', 'Thriller']",0.0,0.0,99.0,10.298582,29.0,5.5
+684,Delta of Venus,"['Drama', 'Romance']",0.0,62949.0,99.0,1.099187,5.0,3.3
+685,To Cross the Rubicon,[],0.0,0.0,0.0,0.006854,0.0,0.0
+686,Angus,"['Comedy', 'Drama', 'Family', 'Romance']",0.0,0.0,90.0,2.25008,24.0,6.8
+687,Priest Daens,"['Drama', 'History']",0.0,0.0,138.0,0.755047,15.0,6.7
+688,Faces,['Drama'],275000.0,0.0,130.0,7.918418,36.0,7.1
+689,Boys,"['Romance', 'Drama', 'Mystery']",0.0,0.0,86.0,1.579153,11.0,5.3
+690,The Quest,"['Action', 'Adventure']",30000000.0,57400547.0,95.0,7.941972,126.0,5.3
+691,Cosi,"['Comedy', 'Romance']",0.0,0.0,102.0,0.947007,9.0,7.1
+692,Sunset Park,['Drama'],0.0,0.0,99.0,1.231692,7.0,5.1
+693,Mulholland Falls,"['Drama', 'Mystery', 'Thriller']",0.0,0.0,107.0,5.79463,73.0,6.2
+694,The Truth About Cats & Dogs,"['Comedy', 'Romance']",0.0,0.0,93.0,5.121203,86.0,5.7
+695,Oliver & Company,"['Animation', 'Comedy', 'Family']",31000000.0,74151346.0,74.0,10.813579,372.0,6.5
+696,Celtic Pride,['Comedy'],0.0,0.0,91.0,1.940747,35.0,4.9
+697,Flipper,"['Adventure', 'Family']",25530000.0,20080020.0,95.0,4.557006,85.0,5.3
+698,Captives,"['Drama', 'Thriller', 'Mystery', 'Romance']",0.0,0.0,100.0,1.926109,10.0,6.0
+699,Of Love and Shadows,['Drama'],0.0,0.0,103.0,0.709209,11.0,4.4
+700,Dead Man,"['Drama', 'Fantasy', 'Western']",9000000.0,0.0,121.0,6.505272,397.0,7.2
+701,The Horseman on the Roof,"['War', 'Adventure', 'Drama', 'Romance']",35000000.0,15000000.0,135.0,1.690768,25.0,6.7
+702,Switchblade Sisters,"['Action', 'Crime', 'Drama']",0.0,0.0,91.0,6.035166,27.0,6.6
+703,Mouth to Mouth,"['Comedy', 'Foreign']",0.0,0.0,106.0,1.133409,5.0,5.5
+704,The Visitors,"['Fantasy', 'Comedy', 'Science Fiction']",0.0,0.0,107.0,7.326169,433.0,7.1
+705,Multiplicity,"['Comedy', 'Fantasy', 'Science Fiction']",45000000.0,0.0,117.0,8.768806,158.0,5.5
+706,"The Haunted World of Edward D. Wood, Jr.",['Documentary'],0.0,0.0,112.0,0.037443,1.0,10.0
+707,Two Friends,"['Drama', 'Foreign']",0.0,0.0,86.0,0.003949,0.0,0.0
+708,The Craft,"['Drama', 'Fantasy', 'Horror', 'Thriller']",15000000.0,24769466.0,101.0,12.860385,388.0,6.3
+709,The Great White Hype,"['Comedy', 'Drama']",0.0,0.0,91.0,3.321765,29.0,5.1
+710,Last Dance,"['Drama', 'Thriller']",0.0,5.0,103.0,1.196686,9.0,5.6
+711,War Stories Our Mother Never Told Us,[],0.0,0.0,95.0,0.005625,0.0,0.0
+712,Cold Comfort Farm,"['Comedy', 'Drama', 'Romance']",0.0,0.0,95.0,1.92386,21.0,7.0
+713,"Institute Benjamenta, or This Dream People Call Human Life","['Animation', 'Drama']",0.0,0.0,104.0,0.543042,11.0,7.7
+714,Heaven's Prisoners,"['Drama', 'Mystery', 'Thriller']",25000000.0,0.0,132.0,9.264679,17.0,5.0
+715,Original Gangstas,"['Action', 'Drama', 'Crime', 'Thriller']",4800000.0,3014000.0,99.0,0.343579,5.0,5.5
+716,The Rock,"['Action', 'Adventure', 'Thriller']",75000000.0,335062621.0,136.0,13.249824,1474.0,6.9
+717,Getting Away with Murder,['Comedy'],0.0,0.0,91.0,0.746662,6.0,5.5
+718,Cemetery Man,"['Fantasy', 'Drama', 'Horror', 'Comedy']",4000000.0,0.0,105.0,6.247819,105.0,7.0
+719,Twister,"['Action', 'Adventure', 'Drama']",92000000.0,494471524.0,113.0,8.739144,966.0,6.1
+720,Barb Wire,"['Action', 'Science Fiction']",0.0,3793614.0,98.0,5.877599,117.0,3.9
+721,Le Garçu,['Drama'],0.0,0.0,102.0,0.125882,1.0,5.0
+722,Honeymoon,['Comedy'],0.0,0.0,92.0,0.652621,0.0,0.0
+723,Ghost in the Shell,"['Action', 'Animation', 'Science Fiction']",0.0,2287714.0,83.0,10.686166,854.0,7.8
+724,Thinner,"['Horror', 'Thriller']",0.0,0.0,92.0,4.856229,125.0,5.5
+725,Spy Hard,"['Action', 'Comedy']",18000000.0,0.0,81.0,8.202057,148.0,4.9
+726,Brothers in Trouble,"['Comedy', 'Drama']",0.0,0.0,102.0,0.594716,0.0,0.0
+727,A Close Shave,"['Family', 'Animation', 'Comedy']",0.0,0.0,30.0,6.796858,223.0,7.5
+728,Force of Evil,"['Drama', 'Action', 'Crime']",0.0,0.0,78.0,4.386329,33.0,6.6
+729,The Stupids,"['Comedy', 'Family']",0.0,0.0,94.0,1.751457,22.0,4.2
+730,The Arrival,"['Action', 'Mystery', 'Science Fiction', 'Thriller']",25000000.0,14048372.0,115.0,6.497591,200.0,6.1
+731,The Man from Down Under,"['Drama', 'War']",0.0,0.0,103.0,0.068254,0.0,0.0
+732,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"['Drama', 'Comedy', 'War']",1800000.0,9440272.0,95.0,9.80398,1472.0,8.0
+733,Careful,"['Horror', 'Comedy', 'Drama', 'Fantasy']",0.0,0.0,100.0,0.160571,4.0,7.8
+734,Vermont Is for Lovers,[],0.0,0.0,88.0,0.75,0.0,0.0
+735,A Month by the Lake,"['Comedy', 'Drama', 'Romance']",0.0,0.0,92.0,0.851078,7.0,7.2
+736,Gold Diggers: The Secret of Bear Mountain,['Drama'],0.0,0.0,94.0,5.508101,20.0,5.8
+737,Kim,"['Family', 'Adventure']",0.0,0.0,113.0,1.048075,5.0,7.0
+738,Carmen Miranda: Ba0as Is My Business,['Documentary'],0.0,0.0,91.0,0.146287,1.0,10.0
+739,Ashes of Time,"['Drama', 'Action']",0.0,0.0,100.0,5.215992,73.0,7.1
+740,The Jar,[],0.0,0.0,86.0,0.401531,3.0,8.0
+741,Maya Lin: A Strong Clear Vision,['Documentary'],0.0,0.0,105.0,0.001608,0.0,0.0
+742,Stalingrad,"['Drama', 'History', 'War']",0.0,0.0,134.0,7.667284,116.0,7.4
+743,The Phantom,"['Adventure', 'Action']",45000000.0,17300889.0,100.0,8.079541,138.0,4.7
+744,Striptease,"['Drama', 'Thriller', 'Crime']",50000000.0,113309743.0,115.0,11.341502,210.0,4.4
+745,The Last of the High Kings,"['Drama', 'Comedy']",0.0,0.0,102.0,1.427756,15.0,5.7
+746,Heavy,"['Drama', 'Romance']",0.0,0.0,105.0,0.889498,11.0,7.7
+747,Jack,"['Comedy', 'Drama', 'Science Fiction']",45000000.0,58620973.0,113.0,6.287245,340.0,5.9
+748,I Shot Andy Warhol,['Drama'],0.0,1814290.0,103.0,2.771201,32.0,6.1
+749,The Grass Harp,"['Comedy', 'Drama', 'Family']",0.0,0.0,107.0,0.365418,4.0,6.1
+750,Someone Else's America,['Drama'],0.0,0.0,96.0,0.099602,0.0,0.0
+751,Life is Rosy,"['Music', 'Romance']",0.0,0.0,80.0,0.514363,2.0,6.5
+752,Quartier Mozart,[],0.0,0.0,80.0,0.011938,1.0,5.0
+753,Touki Bouki,"['Drama', 'Romance']",0.0,0.0,85.0,0.043903,10.0,7.3
+754,God's Gift,['Drama'],0.0,0.0,75.0,0.049573,1.0,5.0
+755,Spirits of the Dead,"['Drama', 'Mystery', 'Horror']",0.0,0.0,121.0,1.794298,24.0,5.5
+756,Babyfever,[],0.0,0.0,109.0,0.001687,0.0,0.0
+757,Pharaoh's  Army,"['Western', 'Drama', 'War']",50.0,0.0,90.0,0.837911,5.0,6.3
+758,Trainspotting,"['Drama', 'Crime']",4000000.0,16491080.0,93.0,19.348466,2737.0,7.8
+759,Til There Was You,"['Comedy', 'Romance']",1000000.0,0.0,113.0,2.700061,4.0,3.9
+760,Independence Day,"['Action', 'Adventure', 'Science Fiction']",75000000.0,816969268.0,145.0,17.634197,3334.0,6.7
+761,Stealing Beauty,"['Drama', 'Romance']",0.0,0.0,116.0,6.418805,99.0,6.6
+762,The Fan,"['Drama', 'Mystery', 'Thriller']",55000000.0,18626419.0,116.0,12.202063,202.0,5.7
+763,The Hunchback of Notre Dame,"['Drama', 'Animation', 'Family']",100000000.0,100138851.0,91.0,13.553999,1182.0,6.8
+764,The Cable Guy,"['Comedy', 'Drama', 'Thriller']",47000000.0,102825796.0,96.0,7.586577,603.0,5.7
+765,Kingpin,['Comedy'],27000000.0,25023434.0,113.0,11.633347,248.0,6.7
+766,Eraser,"['Action', 'Drama', 'Mystery', 'Thriller']",100000000.0,242295562.0,115.0,6.919314,553.0,5.6
+767,The Gate of Heavenly Peace,['Documentary'],0.0,0.0,180.0,0.10705,3.0,6.7
+768,The Nutty Professor,"['Fantasy', 'Comedy', 'Romance', 'Science Fiction']",54000000.0,128769345.0,95.0,9.651581,717.0,5.4
+769,"I, the Worst of All","['Drama', 'Foreign']",0.0,0.0,105.0,0.202495,3.0,6.8
+770,An Unforgettable Summer,"['Drama', 'Romance', 'War']",0.0,65352.0,82.0,0.826372,6.0,7.2
+771,A Hungarian Fairy Tale,[],0.0,0.0,97.0,0.043125,0.0,0.0
+772,My Life and Times With Antonin Artaud,[],0.0,0.0,90.0,0.000308,1.0,8.0
+773,Midnight Dancers,[],0.0,0.0,100.0,0.05956,1.0,7.0
+774,Somebody to Love,"['Comedy', 'Drama']",0.0,0.0,102.0,0.970688,2.0,5.1
+775,A Very Natural Thing,['Drama'],0.0,0.0,80.0,0.147662,3.0,6.3
+776,The Old Lady Who Walked in the Sea,['Comedy'],0.0,0.0,0.0,0.573423,0.0,0.0
+777,Daylight,"['Action', 'Adventure', 'Thriller']",80000000.0,159212469.0,115.0,11.995799,385.0,5.8
+778,The Frighteners,"['Horror', 'Comedy']",30000000.0,29359216.0,110.0,12.09096,413.0,6.7
+779,Lone Star,"['Drama', 'Mystery', 'Romance']",5000000.0,13269963.0,135.0,9.069963,79.0,6.9
+780,Harriet the Spy,"['Comedy', 'Drama', 'Family']",12000000.0,0.0,100.0,4.086563,47.0,5.7
+781,Phenomenon,"['Drama', 'Fantasy', 'Romance', 'Science Fiction']",32000000.0,152036382.0,123.0,5.575992,328.0,6.2
+782,Walking and Talking,"['Comedy', 'Drama', 'Romance']",0.0,0.0,86.0,0.913281,8.0,6.6
+783,She's the One,"['Comedy', 'Romance']",3500000.0,9482579.0,96.0,10.827266,71.0,5.7
+784,A Time to Kill,"['Crime', 'Drama', 'Thriller']",40000000.0,152266007.0,149.0,13.309013,522.0,7.0
+785,American Buffalo,['Drama'],0.0,665450.0,88.0,7.031279,9.0,6.2
+786,Rendezvous in Paris,"['Romance', 'Comedy']",0.0,0.0,94.0,0.227128,4.0,6.5
+787,Alaska,['Adventure'],23000000.0,0.0,109.0,2.318141,32.0,5.2
+788,Fled,"['Action', 'Comedy', 'Thriller']",25000000.0,17193231.0,98.0,3.906949,49.0,5.2
+789,Kazaam,"['Fantasy', 'Comedy', 'Science Fiction', 'Family']",20000000.0,0.0,93.0,8.962892,60.0,3.6
+790,Magic Hunter,[],0.0,0.0,106.0,0.091984,1.0,6.0
+791,Larger Than Life,"['Family', 'Comedy']",30000000.0,0.0,93.0,3.521921,35.0,5.4
+792,A Boy Called Hate,[],0.0,0.0,0.0,1.56604,2.0,6.0
+793,Power 98,"['Action', 'Mystery', 'Thriller']",0.0,0.0,89.0,0.926867,1.0,4.0
+794,Two Deaths,"['War', 'Drama']",0.0,0.0,102.0,0.145092,2.0,7.0
+795,A Very Brady Sequel,['Comedy'],0.0,0.0,90.0,9.898696,42.0,5.8
+796,Stefano Quantestorie,['Comedy'],0.0,0.0,82.0,0.036699,1.0,6.0
+797,Death in the Garden,"['Adventure', 'Drama']",0.0,0.0,104.0,1.116063,8.0,7.4
+798,Hedd Wyn,"['War', 'Drama']",0.0,0.0,123.0,0.270432,2.0,6.5
+799,La Collectionneuse,"['Drama', 'Comedy', 'Romance']",0.0,0.0,89.0,1.683348,25.0,6.5
+800,Kaspar Hauser,"['Drama', 'Foreign']",0.0,0.0,139.0,0.000578,4.0,6.3
+801,Regular Guys,"['Comedy', 'Foreign']",0.0,0.0,100.0,1.165202,9.0,5.2
+802,Diebinnen,['Drama'],0.0,0.0,,0.106345,1.0,4.0
+803,The Convent,['Thriller'],0.0,0.0,91.0,1.606957,6.0,6.5
+804,The Adventures of Pinocchio,"['Animation', 'Family', 'Fantasy']",0.0,0.0,90.0,7.523528,55.0,5.0
+805,Joe's Apartment,"['Fantasy', 'Comedy', 'Music']",13000000.0,4619014.0,78.0,9.490858,87.0,5.0
+806,The First Wives Club,['Comedy'],26000000.0,116400000.0,102.0,10.177303,172.0,6.5
+807,Stonewall,"['Romance', 'Drama', 'Comedy']",0.0,0.0,99.0,0.940228,10.0,7.2
+808,Ransom,"['Action', 'Thriller']",80000000.0,309492681.0,117.0,8.772188,482.0,6.4
+809,High School High,['Comedy'],0.0,21302121.0,86.0,4.220058,51.0,5.4
+810,Phat Beach,['Comedy'],0.0,,0.0,0.879852,8.0,5.4
+811,Foxfire,"['Action', 'Drama', 'Thriller']",0.0,258263.0,102.0,3.186891,30.0,6.3
+812,Chain Reaction,"['Action', 'Drama', 'Science Fiction', 'Thriller']",50000000.0,60209334.0,107.0,15.874491,291.0,5.3
+813,Matilda,"['Comedy', 'Family', 'Fantasy']",36000000.0,33459416.0,98.0,10.034915,892.0,6.9
+814,Emma,"['Drama', 'Comedy', 'Romance']",6000000.0,22231658.0,121.0,6.593011,152.0,6.7
+815,The Crow: City of Angels,"['Action', 'Fantasy', 'Thriller']",13000000.0,17917287.0,84.0,6.554679,119.0,5.2
+816,House Arrest,"['Comedy', 'Family']",0.0,0.0,108.0,12.297782,32.0,5.0
+817,Eyes Without a Face,"['Drama', 'Horror', 'Thriller']",0.0,,90.0,9.935891,130.0,7.5
+818,Bordello of Blood,"['Horror', 'Comedy']",15000000.0,5600000.0,87.0,3.450402,63.0,5.0
+819,Lotto Land,['Drama'],0.0,0.0,87.0,0.042365,1.0,7.0
+820,The Story of Xinghua,[],0.0,0.0,90.0,0.001652,0.0,0.0
+821,The Day the Sun Turned Cold,[],0.0,0.0,99.0,0.076062,2.0,7.0
+822,Flirt,"['Drama', 'Romance']",0.0,0.0,85.0,1.663948,4.0,7.5
+823,The Big Squeeze,['Drama'],0.0,0.0,98.0,0.404501,1.0,5.0
+824,The Spitfire Grill,"['Comedy', 'Drama']",6000000.0,12643776.0,117.0,1.19589,17.0,6.8
+825,Escape from L.A.,"['Action', 'Adventure', 'Science Fiction', 'Thriller']",50000000.0,42277365.0,97.0,12.229381,381.0,5.6
+826,Cyclo,"['Crime', 'Drama']",0.0,0.0,123.0,1.781952,23.0,6.8
+827,Basquiat,"['Drama', 'History']",2962051.0,3011195.0,108.0,4.797674,97.0,6.6
+828,Tin Cup,"['Comedy', 'Drama', 'Romance']",45000000.0,53854588.0,135.0,6.24966,152.0,5.9
+829,Dingo,"['Drama', 'Music']",200000.0,300000.0,109.0,0.124273,1.0,6.0
+830,The Ballad of Narayama,['Drama'],0.0,0.0,98.0,0.969254,12.0,6.4
+831,Every Other Weekend,['Drama'],0.0,0.0,104.0,0.629807,2.0,6.0
+832,Mille bolle blu,[],0.0,0.0,0.0,0.03537,1.0,6.0
+833,Crows and Sparrows,[],0.0,0.0,113.0,0.036478,1.0,5.0
+834,The Godfather,"['Drama', 'Crime']",6000000.0,245066411.0,175.0,41.109264,6024.0,8.5
+835,Maybe... Maybe Not,"['Comedy', 'Drama']",0.0,0.0,90.0,8.593319,34.0,6.1
+836,Police Story 3: Supercop,"['Action', 'Crime', 'Thriller']",900000.0,20483423.0,95.0,6.751864,109.0,6.7
+837,Manny & Lo,"['Drama', 'Comedy']",500000.0,431326.0,88.0,1.143656,9.0,6.3
+838,Wife,['Drama'],0.0,0.0,89.0,0.096079,0.0,0.0
+839,Small Faces,[],1850000.0,0.0,108.0,0.90913,10.0,6.4
+840,Bound,"['Crime', 'Drama', 'Romance', 'Thriller']",4500000.0,7011317.0,108.0,12.449574,203.0,6.9
+841,Carpool,"['Comedy', 'Family']",17000000.0,0.0,89.0,3.714049,17.0,4.9
+842,Death in Brunswick,['Drama'],0.0,0.0,109.0,0.913987,7.0,6.1
+843,Kansas City,"['Thriller', 'Drama', 'Music', 'Crime']",18000000.0,0.0,116.0,5.130136,13.0,6.1
+844,Gone Fishin',"['Comedy', 'Family']",53000000.0,0.0,94.0,2.289647,48.0,4.7
+845,Lover's Knot,"['Romance', 'Comedy']",0.0,0.0,82.0,0.14315,2.0,4.0
+846,Vive L'Amour,['Drama'],0.0,0.0,118.0,1.404588,16.0,7.3
+847,Shadow of Angels,['Drama'],0.0,0.0,101.0,0.364246,2.0,4.0
+848,Killer: A Journal of Murder,['Drama'],0.0,0.0,91.0,0.705136,10.0,6.3
+849,Nothing to Lose,"['Action', 'Crime', 'Drama']",0.0,0.0,0.0,0.001771,0.0,0.0
+850,Project S,"['Action', 'Adventure', 'Crime']",0.0,0.0,104.0,1.262539,12.0,5.8
+851,Girls Town,"['Comedy', 'Drama']",0.0,0.0,90.0,0.635669,3.0,5.2
+852,Bye-Bye,['Drama'],0.0,0.0,104.0,0.109406,3.0,7.7
+853,The Relic,"['Horror', 'Mystery', 'Thriller']",60000000.0,33956608.0,110.0,7.699967,130.0,5.8
+854,The Island of Dr. Moreau,"['Fantasy', 'Horror', 'Science Fiction']",40000000.0,49627779.0,96.0,12.725343,148.0,4.6
+855,First Kid,"['Comedy', 'Family']",0.0,0.0,101.0,6.510437,28.0,5.3
+856,The Trigger Effect,"['Drama', 'Thriller']",8000000.0,0.0,94.0,9.028947,18.0,6.6
+857,Sweet Nothing,[],0.0,0.0,89.0,0.234665,2.0,5.0
+858,Bogus,"['Fantasy', 'Comedy', 'Family']",32000000.0,0.0,110.0,2.523605,46.0,5.4
+859,Bulletproof,"['Action', 'Adventure', 'Comedy', 'Thriller']",25000000.0,22611954.0,84.0,7.859132,164.0,5.4
+860,Talk of Angels,"['Drama', 'Romance', 'War']",0.0,0.0,96.0,0.978989,4.0,6.8
+861,The Land Before Time III: The Time of the Great Giving,"['Animation', 'Adventure', 'Family']",0.0,0.0,71.0,6.372442,86.0,6.1
+862,1-900,[],0.0,0.0,0.0,0.062128,1.0,5.0
+863,Baton Rouge,['Thriller'],0.0,0.0,,0.437895,0.0,0.0
+864,Halloween: The Curse of Michael Myers,"['Horror', 'Thriller']",5000000.0,15116634.0,88.0,8.768288,173.0,5.0
+865,Twelfth Night,"['Drama', 'Comedy', 'Romance']",0.0,0.0,134.0,4.69668,22.0,7.0
+866,Mother Night,"['Drama', 'History']",0.0,0.0,114.0,6.038784,13.0,7.1
+867,Liebelei,"['Drama', 'Romance']",0.0,0.0,88.0,0.472479,8.0,6.3
+868,Venice,"['Drama', 'Romance']",0.0,0.0,110.0,0.14713,4.0,7.5
+869,Wild Reeds,"['Drama', 'Romance']",0.0,0.0,115.0,2.115268,18.0,7.4
+870,For Whom the Bell Tolls,"['Drama', 'History', 'Romance', 'Thriller']",3000000.0,0.0,170.0,14.373861,41.0,6.1
+871,The Philadelphia Story,"['Comedy', 'Romance']",0.0,0.0,112.0,8.888069,196.0,7.7
+872,Singin' in the Rain,"['Comedy', 'Music', 'Romance']",2540800.0,7200000.0,103.0,11.064858,747.0,7.9
+873,An American in Paris,"['Drama', 'Comedy', 'Music', 'Romance']",2723903.0,4500000.0,113.0,5.565203,133.0,6.9
+874,Funny Face,"['Music', 'Comedy', 'Romance']",0.0,0.0,103.0,5.461487,162.0,7.0
+875,Breakfast at Tiffany's,"['Comedy', 'Drama', 'Romance']",2500000.0,9500000.0,110.0,10.879289,1082.0,7.6
+876,Vertigo,"['Mystery', 'Romance', 'Thriller']",2479000.0,28000000.0,128.0,18.20822,1162.0,8.0
+877,Rear Window,"['Drama', 'Mystery', 'Thriller']",1000000.0,36764313.0,112.0,17.911314,1531.0,8.2
+878,It Happened One Night,"['Comedy', 'Romance']",325000.0,4500000.0,105.0,6.465257,283.0,7.7
+879,Gaslight,"['Drama', 'Mystery', 'Thriller', 'Crime']",2068000.0,0.0,114.0,14.545058,73.0,7.2
+880,The Gay Divorcee,"['Comedy', 'Music', 'Romance']",520000.0,0.0,107.0,2.863935,17.0,7.2
+881,North by Northwest,"['Mystery', 'Thriller']",4000000.0,13275000.0,136.0,12.410427,1062.0,7.8
+882,The Apartment,"['Comedy', 'Drama', 'Romance']",3000000.0,25000000.0,125.0,11.994281,498.0,8.1
+883,Some Like It Hot,"['Comedy', 'Romance']",2883848.0,25000000.0,122.0,11.845107,835.0,8.0
+884,Charade,"['Comedy', 'Mystery', 'Romance', 'Thriller']",4000000.0,13474588.0,113.0,7.098731,351.0,7.7
+885,Casablanca,"['Drama', 'Romance']",878000.0,10462500.0,102.0,13.916101,1462.0,7.9
+886,The Maltese Falcon,"['Mystery', 'Crime', 'Thriller']",375000.0,1000000.0,100.0,5.782544,435.0,7.8
+887,My Fair Lady,"['Drama', 'Family', 'Music', 'Romance']",17000000.0,72070731.0,170.0,12.494394,361.0,7.4
+888,Sabrina,"['Comedy', 'Drama', 'Romance']",2238813.0,10000000.0,113.0,7.359741,284.0,7.4
+889,Roman Holiday,"['Comedy', 'Romance']",1500000.0,12000000.0,119.0,11.954806,502.0,7.8
+890,The Little Princess,"['Drama', 'Comedy', 'Family']",0.0,0.0,93.0,5.640722,22.0,7.0
+891,Meet Me in St. Louis,"['Comedy', 'Music', 'Romance']",0.0,0.0,113.0,7.331511,66.0,6.8
+892,The Wizard of Oz,"['Adventure', 'Family', 'Fantasy']",2777000.0,33754967.0,102.0,22.064932,1689.0,7.4
+893,Gone with the Wind,"['Drama', 'Romance', 'War']",4000000.0,400176459.0,238.0,14.240357,995.0,7.7
+894,My Favorite Year,"['Comedy', 'Drama']",0.0,0.0,92.0,2.923672,35.0,7.1
+895,Sunset Boulevard,['Drama'],1752000.0,5000000.0,110.0,11.709777,533.0,8.2
+896,Citizen Kane,"['Mystery', 'Drama']",839727.0,23217674.0,119.0,15.811921,1244.0,8.0
+897,2001: A Space Odyssey,"['Science Fiction', 'Mystery', 'Adventure']",10500000.0,68700000.0,149.0,22.494622,3075.0,7.9
+898,Golden Earrings,"['Adventure', 'Romance']",0.0,0.0,95.0,0.949155,3.0,4.8
+899,All About Eve,['Drama'],1400000.0,63463.0,138.0,12.06308,367.0,8.0
+900,The Women,"['Comedy', 'Drama']",1688000.0,2270000.0,133.0,5.076649,26.0,6.4
+901,Rebecca,"['Drama', 'Mystery']",1288000.0,6000000.0,130.0,8.590813,346.0,7.7
+902,Foreign Correspondent,"['Mystery', 'Thriller', 'War']",0.0,0.0,120.0,9.955445,86.0,7.0
+903,Notorious,"['Thriller', 'Drama', 'Romance']",2000000.0,24464742.0,102.0,10.135111,345.0,7.8
+904,Spellbound,"['Drama', 'Mystery', 'Thriller']",1500000.0,7000000.0,111.0,5.47596,166.0,7.3
+905,An Affair to Remember,"['Drama', 'Romance']",0.0,0.0,111.0,9.813419,101.0,7.1
+906,To Catch a Thief,"['Crime', 'Drama', 'Mystery', 'Romance', 'Thriller']",2500000.0,8750000.0,106.0,5.490505,299.0,7.1
+907,Father of the Bride,"['Comedy', 'Drama', 'Family', 'Romance']",0.0,0.0,92.0,2.469167,43.0,6.6
+908,The Band Wagon,"['Comedy', 'Music']",0.0,0.0,112.0,3.573935,46.0,7.1
+909,Ninotchka,"['Comedy', 'Romance']",1365000.0,2279000.0,110.0,5.120036,77.0,7.3
+910,Love in the Afternoon,"['Comedy', 'Drama', 'Romance']",0.0,0.0,130.0,8.196679,55.0,7.3
+911,Gigi,"['Comedy', 'Music', 'Romance']",0.0,0.0,116.0,10.36311,68.0,6.1
+912,The Reluctant Debutante,"['Comedy', 'Romance']",0.0,0.0,94.0,1.954175,11.0,6.6
+913,The Adventures of Robin Hood,"['Action', 'Adventure', 'Romance']",2033000.0,3981000.0,102.0,10.685036,170.0,7.6
+914,The Mark of Zorro,"['Action', 'Adventure', 'Drama', 'Romance', 'Western']",0.0,0.0,94.0,7.431939,39.0,7.1
+915,Laura,"['Drama', 'Mystery']",1020000.0,2000000.0,88.0,9.884516,173.0,7.6
+916,The Ghost and Mrs. Muir,"['Fantasy', 'Romance', 'Mystery']",0.0,0.0,104.0,3.008607,59.0,7.3
+917,Lost Horizon,"['Adventure', 'Fantasy', 'Drama', 'Mystery']",4000000.0,0.0,97.0,3.166544,42.0,6.8
+918,Top Hat,"['Comedy', 'Music', 'Romance']",609000.0,3202000.0,101.0,7.122093,62.0,7.4
+919,To Be or Not to Be,"['Comedy', 'War']",0.0,0.0,99.0,7.274948,119.0,7.7
+920,My Man Godfrey,"['Comedy', 'Romance']",0.0,0.0,94.0,5.480098,69.0,7.7
+921,Giant,"['Action', 'Drama', 'Western']",5400000.0,35000000.0,201.0,10.864284,169.0,7.5
+922,East of Eden,['Drama'],1.0,5.0,115.0,6.42883,163.0,7.5
+923,The Thin Man,"['Comedy', 'Crime', 'Mystery']",226408.0,1423000.0,93.0,10.573867,97.0,7.4
+924,His Girl Friday,"['Comedy', 'Drama']",0.0,0.0,92.0,9.88321,171.0,7.5
+925,Around the World in Eighty Days,"['Adventure', 'Comedy', 'Family', 'Fantasy', 'Romance']",6000000.0,42000000.0,167.0,6.164226,85.0,6.5
+926,It's a Wonderful Life,"['Drama', 'Family', 'Fantasy']",3180000.0,9644124.0,130.0,15.031588,1103.0,8.0
+927,Mr. Smith Goes to Washington,"['Comedy', 'Drama']",1500000.0,9600000.0,129.0,8.168694,245.0,7.9
+928,Bringing Up Baby,"['Comedy', 'Romance']",1073000.0,0.0,102.0,6.60577,201.0,7.6
+929,Penny Serenade,"['Drama', 'Romance']",0.0,0.0,119.0,2.446972,23.0,6.4
+930,The Scarlet Letter,['Drama'],0.0,0.0,115.0,0.284522,4.0,8.3
+931,Lady of Burlesque,"['Comedy', 'Thriller', 'Mystery', 'Romance']",0.0,0.0,91.0,0.264695,7.0,5.0
+932,Of Human Bondage,['Drama'],0.0,0.0,83.0,1.831221,26.0,6.4
+933,Angel on My Shoulder,"['Comedy', 'Fantasy', 'Romance']",0.0,0.0,100.0,0.594433,6.0,5.7
+934,Little Lord Fauntleroy,"['Drama', 'Family']",0.0,0.0,102.0,4.709847,13.0,6.6
+935,They Made Me a Criminal,"['Thriller', 'Crime', 'Drama', 'Mystery']",0.0,0.0,92.0,1.758391,8.0,5.6
+936,The Inspector General,"['Comedy', 'Music', 'Romance']",0.0,0.0,101.0,0.896505,17.0,6.2
+937,Angel and the Badman,"['Romance', 'Western']",0.0,0.0,100.0,8.08426,27.0,6.6
+938,The 39 Steps,"['Action', 'Thriller', 'Mystery']",0.0,0.0,86.0,5.865697,217.0,7.4
+939,A Walk in the Sun,"['War', 'Drama']",0.0,0.0,117.0,8.85591,14.0,5.2
+940,The Outlaw,"['Action', 'Adventure', 'Western']",0.0,0.0,116.0,1.450989,16.0,4.9
+941,Night of the Living Dead,['Horror'],114000.0,30000000.0,96.0,14.384198,591.0,7.5
+942,The African Queen,"['Adventure', 'War', 'Romance']",1300000.0,10750000.0,105.0,6.636872,232.0,7.4
+943,Beat the Devil,"['Action', 'Adventure', 'Comedy', 'Crime', 'Drama', 'Romance']",1000000.0,0.0,89.0,2.001733,31.0,6.2
+944,Cat on a Hot Tin Roof,"['Drama', 'Romance']",3000000.0,17570324.0,108.0,11.794846,168.0,7.6
+945,The Last Time I Saw Paris,"['Romance', 'Drama']",0.0,105.0,116.0,0.912955,9.0,5.1
+946,Meet John Doe,"['Drama', 'Comedy', 'Romance']",0.0,0.0,122.0,10.750619,52.0,7.3
+947,Algiers,"['Drama', 'Action', 'Mystery', 'Romance']",0.0,0.0,96.0,0.348765,6.0,5.8
+948,Something to Sing About,['Comedy'],0.0,0.0,93.0,0.367546,2.0,3.8
+949,A Farewell to Arms,"['Drama', 'Romance', 'War']",4.0,25.0,89.0,1.914697,29.0,6.2
+950,Moonlight Murder,"['Music', 'Mystery']",0.0,0.0,65.0,0.283269,1.0,6.0
+951,Nothing Personal,['Drama'],0.0,0.0,83.0,0.064512,1.0,4.0
+952,"Yes, Madam","['Action', 'Foreign']",0.0,0.0,93.0,1.060097,11.0,7.4
+953,Dangerous Ground,['Drama'],0.0,3028094.0,95.0,1.463219,8.0,5.0
+954,Picnic,"['Drama', 'Romance']",0.0,0.0,115.0,8.500509,19.0,6.7
+955,Madagascar Skin,[],0.0,0.0,96.0,0.580724,0.0,0.0
+956,The Pompatus of Love,"['Comedy', 'Romance', 'Drama']",0.0,0.0,99.0,0.537795,2.0,5.3
+957,Small Wonders,"['Documentary', 'Family']",0.0,0.0,77.0,0.00264,0.0,0.0
+958,Fly Away Home,"['Action', 'Adventure', 'Drama', 'Family']",0.0,0.0,107.0,5.511155,114.0,6.6
+959,Bliss,"['Drama', 'Romance']",0.0,294064.0,103.0,1.262649,6.0,4.8
+960,Grace of My Heart,"['Drama', 'Comedy', 'Music']",0.0,0.0,116.0,9.364418,15.0,6.5
+961,Brother of Sleep,['Drama'],0.0,0.0,127.0,0.751733,6.0,6.8
+962,Maximum Risk,"['Action', 'Adventure', 'Thriller']",25000000.0,51702483.0,100.0,7.370163,104.0,5.3
+963,Michael Collins,"['Drama', 'Thriller']",28000000.0,16900000.0,132.0,6.728199,98.0,6.8
+964,The Rich Man's Wife,"['Drama', 'Thriller']",0.0,8538318.0,94.0,6.746475,11.0,4.9
+965,Infinity,"['Drama', 'Romance']",0.0,0.0,119.0,1.226688,0.0,0.0
+966,Big Night,['Drama'],0.0,0.0,107.0,2.702973,45.0,6.8
+967,Last Man Standing,"['Action', 'Crime', 'Drama', 'Thriller']",67000000.0,47267001.0,101.0,11.845918,263.0,6.2
+968,Caught,"['Action', 'Drama', 'Thriller']",0.0,0.0,110.0,1.625873,5.0,6.5
+969,Set It Off,"['Drama', 'Action', 'Crime']",9000000.0,41590886.0,118.0,6.85606,66.0,6.9
+970,2 Days in the Valley,"['Comedy', 'Crime']",0.0,0.0,104.0,4.989276,73.0,5.9
+971,Curdled,"['Comedy', 'Crime', 'Thriller']",2300000.0,49620.0,88.0,2.781581,29.0,6.2
+972,L'associé,['Comedy'],0.0,0.0,94.0,0.000308,3.0,6.0
+973,Ed's Next Move,[],0.0,0.0,88.0,0.550278,1.0,3.0
+974,Extreme Measures,"['Drama', 'Thriller']",38000000.0,17380126.0,118.0,4.990506,80.0,5.7
+975,The Glimmer Man,"['Action', 'Adventure', 'Crime', 'Drama', 'Thriller']",45000000.0,0.0,92.0,5.918737,102.0,4.7
+976,D3: The Mighty Ducks,"['Action', 'Comedy', 'Drama', 'Family']",0.0,22955097.0,104.0,5.511475,99.0,5.3
+977,The Chamber,"['Crime', 'Drama']",50000000.0,22540359.0,113.0,3.998494,62.0,5.9
+978,The Apple Dumpling Gang,"['Comedy', 'Family']",0.0,0.0,100.0,4.040945,34.0,6.6
+979,"Davy Crockett, King of the Wild Frontier","['Action', 'Adventure', 'Family', 'Western']",0.0,0.0,93.0,5.497359,14.0,5.9
+980,Escape to Witch Mountain,"['Adventure', 'Fantasy', 'Science Fiction', 'Family']",0.0,20000000.0,97.0,7.151691,60.0,6.5
+981,The Love Bug,"['Comedy', 'Family', 'Fantasy']",0.0,0.0,107.0,10.091707,126.0,6.0
+982,Herbie Rides Again,"['Romance', 'Comedy', 'Family', 'Fantasy']",0.0,0.0,88.0,4.914603,77.0,5.9
+983,Old Yeller,"['Adventure', 'Drama', 'Western']",0.0,0.0,83.0,12.887829,68.0,7.0
+984,The Parent Trap,"['Comedy', 'Family']",0.0,0.0,129.0,5.807074,92.0,6.8
+985,Pollyanna,['Adventure'],0.0,0.0,134.0,3.254308,50.0,6.9
+986,Homeward Bound: The Incredible Journey,"['Adventure', 'Comedy', 'Drama', 'Family']",0.0,0.0,84.0,7.186506,218.0,6.6
+987,The Shaggy Dog,"['Comedy', 'Family']",0.0,0.0,104.0,3.404213,22.0,6.2
+988,Swiss Family Robinson,"['Adventure', 'Family']",0.0,0.0,126.0,4.623089,88.0,7.0
+989,That Darn Cat!,"['Drama', 'Family', 'Comedy']",0.0,0.0,112.0,2.803679,28.0,6.4
+990,"20,000 Leagues Under the Sea","['Adventure', 'Drama', 'Science Fiction']",5000000.0,28200000.0,127.0,8.722406,160.0,6.9
+991,Cool Runnings,['Comedy'],14000000.0,154864401.0,98.0,8.30721,510.0,6.8
+992,Angels in the Outfield,"['Fantasy', 'Drama', 'Comedy', 'Family']",0.0,50236831.0,102.0,10.892812,124.0,5.7
+993,Cinderella,"['Family', 'Fantasy', 'Animation', 'Romance']",2900000.0,263591415.0,74.0,14.436858,1760.0,6.8
+994,Winnie the Pooh and the Blustery Day,"['Animation', 'Family', 'Music']",0.0,0.0,25.0,1.054814,20.0,7.8
+995,The Three Caballeros,"['Animation', 'Family', 'Music']",0.0,0.0,71.0,8.702472,108.0,6.2
+996,The Sword in the Stone,"['Animation', 'Family']",3000000.0,22182353.0,79.0,10.636458,935.0,6.9
+997,So Dear to My Heart,"['Animation', 'Drama', 'Family']",0.0,0.0,79.0,0.901443,5.0,6.3
+998,Robin Hood: Prince of Thieves,['Adventure'],48000000.0,390493908.0,143.0,10.639244,937.0,6.6
+999,Mary Poppins,"['Comedy', 'Family', 'Fantasy']",6000000.0,102272727.0,139.0,15.11549,1217.0,7.4
