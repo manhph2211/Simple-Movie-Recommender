@@ -5,7 +5,7 @@
 
 ## Usage :smile:
 
-- Just try `python3 movie_recommender.py` in folder `src`
+- Just try `python3 movie_recommender.py` in folder `src` (Oh note that you have to put the data on the right path)
 
 ## Results :smile:
 
