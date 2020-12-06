@@ -1,7 +1,7 @@
 # Movie-Recommender :smile:
  
 - This can suggest top 5 movies being the most similar to the chosen test-movie
-- Also, this compares results between using Sklearn and myCode and things I got are exactly what I expected
+- Also, this compares results between using Sklearn and myCode. The results I got are exactly what I expected
 
 ## Usage :smile:
 
