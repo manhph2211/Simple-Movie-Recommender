@@ -22,7 +22,7 @@ def recommend_using_sklearn(data_fr,test_id):
 	model_knn = NearestNeighbors(metric = 'cosine', algorithm = 'brute')
 	model_knn.fit(data_matrix)
 	distances, indices = model_knn.kneighbors(data_.iloc[test_id,:].values.reshape(1, -1), n_neighbors = 6)
-	genres=list(readJson('/home/jack/Machine-Learning/ml_Problems/KNN/film_recommendation/genres.json').keys()) 
+	genres=list(readJson('./genres.json').keys()) 
 	print()
 	for i in range(0, len(distances.flatten())):
 	    if i == 0: # itself
@@ -48,7 +48,7 @@ def recommend_mycode(data_fr,test_id):
 			distances[i]=cosine_simi(X[i],X[test_id])
 	distances={k: v for k, v in sorted(distances.items(), key=lambda item: item[1])}
 	index_l=list(distances.keys())[994:]
-	genres=list(readJson('/home/jack/Machine-Learning/ml_Problems/KNN/film_recommendation/genres.json').keys()) 
+	genres=list(readJson('./genres.json').keys()) 
 	print('Recommendations(using mycode) for {0} - Genres = {1} - Runtime = {2}: \n'.format(movie_names[test_id], decoding(data_fr.iloc[test_id,2:-1].to_numpy(),genres), runtime[test_id]))
 	for i in range(len(index_l)):
 		print('{0}: {1} - Genres =  {2} - Runtime = {3}'.format(i+1, movie_names[index_l[i]],decoding(data_fr.iloc[index_l[i],2:-1].to_numpy(),genres),runtime[index_l[i] ] ))
