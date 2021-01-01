@@ -5,7 +5,7 @@ import re
 from Linear_Re_for_Preprocessing import LinearRegression
 import json
 
-path='/home/jack/Machine-Learning/ml_Problems/KNN/film_recommendation/movie.csv'
+path='../movie.csv'
 data=pd.read_csv(path)
 
 #--------------------------------------------
