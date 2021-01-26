@@ -8,5 +8,5 @@
 - Just try `python3 movie_recommender.py` in folder `src` 
 ## Results :smile:
 
-- Visit [this](https://github.com/manhph2211/Movie-Recommender/blob/main/results.png)
-
+- ![alt text](https://github.com/manhph2211/Movie-Recommender/blob/main/results.png) 
+ 
